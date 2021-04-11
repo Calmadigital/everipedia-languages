@@ -29,84 +29,84 @@ msgstr "Cambiado"
 #.  Login to participate in article chat.
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Login to participate in article chat."
-msgstr "Inicie sesión para participar en el chat del artículo."
+msgstr " Accede para participar en el chat del artículo."
 
 #. [ChatList.WriteYourMessageBelow]
 #. defaultMessage is:
 #.  Write your message below to start the conversation
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid " Write your message below to start the conversation"
-msgstr "Escriba su mensaje a continuación para iniciar la conversación"
+msgstr " Escriba su mensaje a continuación para iniciar la charla"
 
 #. [EpIdRegister.SpaceAndSpace]
 #. defaultMessage is:
 #.  and 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid " and "
-msgstr ""
+msgstr " y "
 
 #. [Errors.IfYouThinkYouAre]
 #. defaultMessage is:
 #.  if you think you are receiving this message in error.
 #: translations/.messages/src/app/utils/errors.json
 msgid " if you think you are receiving this message in error."
-msgstr "si cree que está recibiendo este mensaje por error."
+msgstr " si cree que está recibiendo este mensaje por error."
 
 #. [EditOverview.MergedIntoThisArticle]
 #. defaultMessage is:
 #.  merged into this article.
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid " merged into this article."
-msgstr "se fusionó con este artículo."
+msgstr " se combino en este artículo."
 
 #. [MediaGallery.ToChooseAQualityImage]
 #. defaultMessage is:
 #.  to choose a quality image. You can upload jpg, gif, and png files
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid " to choose a quality image. You can upload jpg, gif, and png files"
-msgstr ""
+msgstr " para elegir una imagen de calidad. Puedes subir ficheros tipo jpg, gif y png"
 
 #. [Tooltips.Vote]
 #. defaultMessage is:
 #.  vote
 #: translations/.messages/src/app/components/tooltips/index.json
 msgid " vote"
-msgstr "Votar"
+msgstr " vote"
 
 #. [Dashboard.IQTab.WithdrawIQ.WholeNumbersOnly]
 #. defaultMessage is:
 #. (whole numbers only)
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "(whole numbers only)"
-msgstr ""
+msgstr "(sólo números enteros)"
 
 #. [MobileHamburger.SignUp]
 #. defaultMessage is:
 #. + Create an Account / Login
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 msgid "+ Create an Account / Login"
-msgstr "+ Crear una Cuenta / Entrar"
+msgstr "+ Crear una Cuenta / Acceder"
 
 #. [IQInfo.Or]
 #. defaultMessage is:
 #. , or 
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid ", or "
-msgstr ""
+msgstr ", o "
 
 #. [Chat.NoMessages]
 #. defaultMessage is:
 #. 0 Messages
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "0 Messages"
-msgstr "Mensajes"
+msgstr "0 Mensajes"
 
 #. [Chat.NoParticipants]
 #. defaultMessage is:
 #. 0 Participants
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "0 Participants"
-msgstr "Participantes"
+msgstr "0 Participantes"
 
 #. [DashboardComponent.OneMonth]
 #. defaultMessage is:
@@ -165,6 +165,8 @@ msgid ""
 "A link to reset your password has been sent to your email. Click the link "
 "there to create a new password."
 msgstr ""
+"Se ha enviado a su correo electrónico un enlace para restablecer su contraseña. Haga clic en el enlace "
+"para crear una nueva contraseña".
 
 #. [Homepage.UniverseOfKnowledge]
 #. defaultMessage is:
@@ -255,7 +257,7 @@ msgstr "SALDO DISPONIBLE"
 #: translations/.messages/src/app/containers/about/about.container.json
 #: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "About"
-msgstr "Sobre"
+msgstr "Acerca de"
 
 #. [LearnMore.AboutEveripedia]
 #. defaultMessage is:
@@ -287,7 +289,7 @@ msgstr "Sobre Mí debe tener más de 3 caracteres"
 #. Accept
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Accept"
-msgstr "Aceptar"
+msgstr "Acepta"
 
 #. [SubmitVote.Accepted]
 #. defaultMessage is:
@@ -304,21 +306,21 @@ msgstr "Aceptado"
 #. Account Issues
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Account Issues"
-msgstr "Cuenta"
+msgstr "Problemas con las cuentas"
 
 #. [EditProfile.AccountName]
 #. defaultMessage is:
 #. Account Name
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Account Name"
-msgstr "Nombre de la cuenta"
+msgstr "Nombre de cuenta"
 
 #. [EpIdLogin.AccountUpdate]
 #. defaultMessage is:
 #. Account Update
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
 msgid "Account Update"
-msgstr "Nombre de la cuenta"
+msgstr "Actualizar cuenta"
 
 #. [CategoryResultCard.ActiveVoting]
 #. defaultMessage is:
@@ -367,7 +369,7 @@ msgstr "Actividad"
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Add"
-msgstr "Añadir"
+msgstr "Añade"
 
 #. [CitationModal.AddCitation]
 #. defaultMessage is:
@@ -386,42 +388,42 @@ msgstr "Añadir"
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 msgid "Add Citation"
-msgstr "Añadir cita"
+msgstr "Añade mención"
 
 #. [CategoriesNode.AddFirstCategory]
 #. defaultMessage is:
 #. Add First Category
 #: translations/.messages/src/editor/plugins/categories/categories.node.json
 msgid "Add First Category"
-msgstr "Añadir primera categoría"
+msgstr "Añadir Primera Categoría"
 
 #. [MediaGallery.AddImage]
 #. defaultMessage is:
 #. Add Image or Video to Media Gallery
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid "Add Image or Video to Media Gallery"
-msgstr "Añadir imagen o vídeo a la galería multimedia"
+msgstr "Añade imagen o Vídeo a la Galería Multimedia"
 
 #. [InfoboxModal.AddLabel]
 #. defaultMessage is:
 #. Add Label
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add Label"
-msgstr "Añadir Etiqueta"
+msgstr "Añade Etiqueta"
 
 #. [MainPhoto.AddMainPhoto]
 #. defaultMessage is:
 #. Add Main Photo
 #: translations/.messages/src/editor/plugins/main-photo/main-photo-modal.json
 msgid "Add Main Photo"
-msgstr "Añadir foto principal"
+msgstr "Añade Foto Principal"
 
 #. [MediaGallery.AddNewItem]
 #. defaultMessage is:
 #. Add New Image or Video to Gallery
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery.node.json
 msgid "Add New Image or Video to Gallery"
-msgstr "Añadir nueva imagen o vídeo a la galería"
+msgstr "Añadir Nueva Imagen o Vídeo a la Galería"
 
 #. [InfoboxModal.AddNewItem]
 #. defaultMessage is:
@@ -434,42 +436,42 @@ msgstr "Añadir nueva imagen o vídeo a la galería"
 #. Add New Item to Infobox
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add New Item to Infobox"
-msgstr "Agregar un nuevo artículo a Infobox"
+msgstr "Agrega nuevo elemento a Infobox"
 
 #. [InfoboxModal.AddRow]
 #. defaultMessage is:
 #. Add Row
 #: translations/.messages/src/editor/plugins/infobox/infobox-modal.json
 msgid "Add Row"
-msgstr ""
+msgstr "Añade Fila"
 
 #. [Suggestions.AddLink]
 #. defaultMessage is:
 #. Add a Link
 #: translations/.messages/src/editor/components/mentions/suggestions.json
 msgid "Add a Link"
-msgstr "Añadir cita"
+msgstr "Añade Enlace"
 
 #. [AddRelatedModal.Title]
 #. defaultMessage is:
 #. Add a related page
 #: translations/.messages/src/editor/plugins/add-related/add-related-modal.json
 msgid "Add a related page"
-msgstr "Añadir una página relacionada"
+msgstr "Añade Página Relacionada"
 
 #. [SectionEmbedModal.AddEditURL.AddAndInsert]
 #. defaultMessage is:
 #. Add and Insert
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Add and Insert"
-msgstr "Agregar y agregar otro"
+msgstr "Agrega e inserta"
 
 #. [ImageUploader.AddCustomCaption]
 #. defaultMessage is:
 #. Add custom caption (optional)
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Add custom caption (optional)"
-msgstr "Agregar subtítulo personalizado (opcional)"
+msgstr "Añade subtítulo personalizado (opcional)"
 
 #. [CitationModal.Title]
 #. defaultMessage is:
@@ -480,14 +482,14 @@ msgstr "Agregar subtítulo personalizado (opcional)"
 #: translations/.messages/src/editor/plugins/citation-modal/citation-modal.json
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Add or edit a citation"
-msgstr "Agregar o editar una cita"
+msgstr "Añade o edita una mención"
 
 #. [MainPhoto.Title]
 #. defaultMessage is:
 #. Add or edit the main image
 #: translations/.messages/src/editor/plugins/main-photo/main-photo-modal.json
 msgid "Add or edit the main image"
-msgstr "Agregar o editar una cita"
+msgstr "Agrega o edita la imagen principal"
 
 #. [CreatePage.Description]
 #. defaultMessage is:
@@ -505,9 +507,7 @@ msgstr ""
 #. Adding media makes an article more interactive and engaging.
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery-modal.json
 msgid "Adding media makes an article more interactive and engaging."
-msgstr ""
-"Agregar medios de comunicación hace que un artículo sea más interactivo y "
-"atractivo."
+msgstr "Agregar medios hace que un artículo sea más interactivo y atractivo"
 
 #. [NewPageTemplate.NPT_Organization_AddressLocation]
 #. defaultMessage is:
@@ -529,7 +529,7 @@ msgstr "Dirección / Ubicación"
 #. Adult Content
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Adult Content"
-msgstr "Contenido para adultos"
+msgstr "Contenido adulto"
 
 #. [EpIdLogin.AfterCreating]
 #. defaultMessage is:
@@ -539,20 +539,22 @@ msgid ""
 "After creating a new account, we will prompt you to merge accounts you can "
 "always merge your account from your account dashboard."
 msgstr ""
+"Después de crear una nueva cuenta, le pediremos que fusione las cuentas. Puede "
+"fusionar siempre su cuenta desde el panel de control de su cuenta".
 
 #. [SearchResults.All]
 #. defaultMessage is:
 #. All
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "All"
-msgstr ""
+msgstr "Todo"
 
 #. [Leaderboard.AllTime]
 #. defaultMessage is:
 #. All Time
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "All Time"
-msgstr ""
+msgstr "Todo el tiempo"
 
 #. [About.FinancialIncentiveDetail]
 #. defaultMessage is:
@@ -562,7 +564,7 @@ msgid ""
 "All holders of IQ will be incentivized to create quality, neutral content "
 "and to work together in building the reputation of the network."
 msgstr ""
-"Todos los poseedores de IQ serán incentivados para crear contenido neutralde "
+"Todos los poseedores de IQ serán incentivados para crear contenido neutral, de "
 "calidad y para trabajar juntos en la construcción de la reputación de la red."
 
 #. [MetadataModal.AllowNonGooglebot]
@@ -570,7 +572,7 @@ msgstr ""
 #. Allow Non-Googlebot
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Allow Non-Googlebot"
-msgstr "Permitir Googlebot"
+msgstr "Permitir No-Googlebot"
 
 #. [CitationModal.AddEditFile.AllowedFormats]
 #. defaultMessage is:
@@ -584,14 +586,14 @@ msgstr "Formatos permitidos:"
 #. Already have an EPID Account?
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Already have an EPID Account?"
-msgstr "Obtener una cuenta"
+msgstr "¿Ya tiene una cuenta EPID?"
 
 #. [Dashboard.IQTab.WithdrawIQ.Amount]
 #. defaultMessage is:
 #. Amount
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Amount"
-msgstr "Cuenta"
+msgstr "Cantidad"
 
 #. [SubmitVoteConfirmation.Errors.PositiveNumber]
 #. defaultMessage is:
@@ -602,7 +604,7 @@ msgstr "Cuenta"
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Amount must be a positive number"
-msgstr ""
+msgstr "La cantidad debe ser un número positivo"
 
 #. [SubmitVoteConfirmation.Errors.WholeNumber]
 #. defaultMessage is:
@@ -613,14 +615,14 @@ msgstr ""
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Amount must be a whole number. Please remove all decimals."
-msgstr ""
+msgstr "La cantidad debe se run número entero. Por favor, elimine los decimales"
 
 #. [EpIdLogin.ErrorUsernameOrEmailExists]
 #. defaultMessage is:
 #. An account with that email or username already exists
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "An account with that email or username already exists"
-msgstr ""
+msgstr "Una cuenta con ese e-mail o usuario ya existe"
 
 #. [Homepage.AboveTheFold.EcoSystemOfKnowledge]
 #. defaultMessage is:
@@ -634,7 +636,7 @@ msgstr "Un universo de conocimiento."
 #. An encyclopedia for the modern age.
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "An encyclopedia for the modern age."
-msgstr "Una enciclopedia para la época moderna"
+msgstr "Una enciclopedia para la edad moderna"
 
 #. [ThirdBlock.OpenCommunity]
 #. defaultMessage is:
@@ -653,7 +655,7 @@ msgid ""
 "knowledge base."
 msgstr ""
 "Cualquier persona con IQ Tokens es parte interesada en la Red Everipedia. "
-"Utilizando tokens de CI para votar, los usuarios deciden qué nuevos "
+"Usando tokens de IQ para votar, los usuarios deciden qué nuevos "
 "artículos y ediciones se añaden a la base de conocimientos."
 
 #. [AdultContentContainer.Approve]
@@ -661,7 +663,7 @@ msgstr ""
 #. Approve
 #: translations/.messages/src/app/containers/article/AdultContentContainer.json
 msgid "Approve"
-msgstr "Aprobar"
+msgstr "Apruebe"
 
 #. [Chat.AreYouSureYouWantToDeleteThis]
 #. defaultMessage is:
@@ -690,9 +692,9 @@ msgid ""
 "sources and a neutral wording, you can write an article about anything you "
 "want. A dapp you like, yourself — anything."
 msgstr ""
-"Como editor, la característica principal de Everipedia es que, siempre que "
+"Como editor, la característica esencial de Everipedia es que, siempre que "
 "se utilicen fuentes y una redacción neutra, se puede escribir un artículo "
-"sobre cualquier cosa que se desee. Un tipo que te guste, a ti mismo, lo que "
+"sobre cualquier cosa que se desee. Un aplicación que te guste, a ti mismo, lo que "
 "sea."
 
 #. [NewPageTemplate.NPT_Product_Audience]
@@ -725,21 +727,21 @@ msgstr "Saldo disponible"
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Back"
-msgstr ""
+msgstr "Atrás"
 
 #. [Dashboard.IQTab.BalanceActivity]
 #. defaultMessage is:
 #. Balance Activity
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Balance Activity"
-msgstr "Ver Actividad"
+msgstr "Actividad del saldo"
 
 #. [Dashboard.BalanceDetail]
 #. defaultMessage is:
 #. Balance Detail
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Balance Detail"
-msgstr "Detalle de Saldo"
+msgstr "Detalle del Saldo"
 
 #. [About.BecomeAnEditor]
 #. defaultMessage is:
@@ -783,7 +785,7 @@ msgstr "Blog"
 #. Book ISBN
 #: translations/.messages/src/editor/plugins/citation-modal/citation-modal.json
 msgid "Book ISBN"
-msgstr "Código ISBN de la publicación."
+msgstr "Código ISBN del libro"
 
 #. [Dashboard.IQTab.DepositIQ.BothAreRequiredToRec]
 #. defaultMessage is:
@@ -793,6 +795,8 @@ msgid ""
 "Both an address and memo are required to receive IQ. If you do not include "
 "the memo, your funds may be lost."
 msgstr ""
+"Se requiere tanto una dirección como una nota para recibir el IQ. Si no incluye "
+"la nota, sus fondos pueden perderse."
 
 #. [CategoryBox.Categories]
 #. defaultMessage is:
@@ -814,7 +818,7 @@ msgstr "CATEGORÍAS"
 #. CITATIONS
 #: translations/.messages/src/editor/components/mentions/suggestions.json
 msgid "CITATIONS"
-msgstr "CITACIONES"
+msgstr "MENCIONES"
 
 #. [SubmitVoteConfirmation.Cancel]
 #. defaultMessage is:
@@ -900,7 +904,7 @@ msgstr "CITACIONES"
 #: translations/.messages/src/shared/inputs/file-uploader/file-uploader.component.json
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Cancela"
 
 #. [SearchResults.CantFindWhat]
 #. defaultMessage is:
@@ -987,14 +991,14 @@ msgstr "Chat"
 #. Chat about this article!
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "Chat about this article!"
-msgstr "Chatea sobre este artículo!"
+msgstr "¡Chatea sobre este artículo!"
 
 #. [TeamInfo.TheodorForseliusTitle]
 #. defaultMessage is:
 #. Chief Executive Officer
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Chief Executive Officer"
-msgstr "Director Ejecutivo, Cofundador"
+msgstr "Director General"
 
 #. [TeamInfo.LarrySangerTitle]
 #. defaultMessage is:
@@ -1015,14 +1019,14 @@ msgstr "Director de operaciones"
 #. Chief Technology Officer
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Chief Technology Officer"
-msgstr "Director de Tecnología, Cofundador"
+msgstr "Director de Tecnología"
 
 #. [MainPhoto.ButtonText]
 #. defaultMessage is:
 #. Choose a new main image (8mb maximum)
 #: translations/.messages/src/editor/plugins/main-photo/main-photo-modal.json
 msgid "Choose a new main image (8mb maximum)"
-msgstr "Elegir una nueva imagen principal"
+msgstr "Elige una nueva imagen principal (8mb máximo)"
 
 #. [Login.AnotherLoginMethod]
 #. defaultMessage is:
@@ -1047,14 +1051,14 @@ msgstr "Elija imágenes"
 #. Citation
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Citation"
-msgstr "Agregar o editar una cita"
+msgstr "Mención"
 
 #. [CitationModal.Cite]
 #. defaultMessage is:
 #. Cite
 #: translations/.messages/src/editor/plugins/citation-modal/index.json
 msgid "Cite"
-msgstr "Citar"
+msgstr "Mencione"
 
 #. [EditProfile.City]
 #. defaultMessage is:
@@ -1068,7 +1072,7 @@ msgstr "Ciudad"
 #. Click here
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
 msgid "Click here"
-msgstr "Haz clic aquí"
+msgstr "Haga clic aquí"
 
 #. [CitationModal.AddEditFile.Intro]
 #. defaultMessage is:
@@ -1105,14 +1109,14 @@ msgstr "Haga clic para votar sobre esta edición"
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Close"
-msgstr ""
+msgstr "Cierre"
 
 #. [ThirdBlock.CoFounderWikipedia]
 #. defaultMessage is:
 #. Co-Founder Wikipedia
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Co-Founder Wikipedia"
-msgstr "Cofundador de Wikipedia, CIO Everipedia"
+msgstr "Cofundador de Wikipedia"
 
 #. [TableMenu.Column]
 #. defaultMessage is:
@@ -1144,14 +1148,14 @@ msgstr "Preguntas más frecuentes"
 #. Confirm New Password
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Confirm New Password"
-msgstr "Confirme su voto"
+msgstr "Confirme nueva contraseña"
 
 #. [EpIdRegisterModal.ConfirmPassword]
 #. defaultMessage is:
 #. Confirm Password
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Confirm Password"
-msgstr "Confirme su voto"
+msgstr "Confirme la contraseña"
 
 #. [SubmitVoteConfirmation.ConfirmYourVote]
 #. defaultMessage is:
@@ -1252,28 +1256,28 @@ msgstr "Contenido"
 #. Continue
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
 msgid "Continue"
-msgstr "Contenido"
+msgstr "Continua"
 
 #. [Chat.CopyText]
 #. defaultMessage is:
 #. Copy Text
 #: translations/.messages/src/app/components/Chat/index.json
 msgid "Copy Text"
-msgstr "Copiar texto"
+msgstr "Copie texto"
 
 #. [ShareModal.CopyURL]
 #. defaultMessage is:
 #. Copy URL
 #: translations/.messages/src/app/components/ArticleComponent/ShareModal.json
 msgid "Copy URL"
-msgstr "Copiar URL"
+msgstr "Copie URL"
 
 #. [ContactUs.copyright]
 #. defaultMessage is:
 #. Copyright
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Copyright"
-msgstr ""
+msgstr "Copyright"
 
 #. [EditProfile.Country]
 #. defaultMessage is:
@@ -1287,14 +1291,14 @@ msgstr "País"
 #. Create Article
 #: translations/.messages/src/app/components/TopNav/Mobile-Hamburger.json
 msgid "Create Article"
-msgstr "Crear artículo nuevo"
+msgstr "Crea un artículo"
 
 #. [EpIdLogin.CreateEPIDAccount]
 #. defaultMessage is:
 #. Create EPID Account
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Create EPID Account"
-msgstr "Iniciar sesión / Crear una cuenta"
+msgstr "Crea una cuenta EPID"
 
 #. [CreatePage.CreateNewArticle]
 #. defaultMessage is:
@@ -1313,14 +1317,14 @@ msgstr "Iniciar sesión / Crear una cuenta"
 #: translations/.messages/src/app/components/TopNav/index.json
 #: translations/.messages/src/app/containers/homepageContainer/BlackTopNav.json
 msgid "Create New Wiki"
-msgstr "Crear una nueva wiki"
+msgstr "Crea Nueva Wiki"
 
 #. [SearchResults.CreateAnArticle]
 #. defaultMessage is:
 #. Create an Article
 #: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "Create an Article"
-msgstr "Crear artículo nuevo"
+msgstr "Crea un artículo"
 
 #. [MetadataModal.Creation]
 #. defaultMessage is:
@@ -1337,14 +1341,14 @@ msgstr "Creación"
 #. Creative Work / Art
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Creative Work / Art"
-msgstr "Trabajo creativo/Arte"
+msgstr "Trabajo creativo / Arte"
 
 #. [SearchResults.CreativeWorks]
 #. defaultMessage is:
 #. Creative Works
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Creative Works"
-msgstr "Trabajo creativo/Arte"
+msgstr "Trabajos creativos"
 
 #. [NewPageTemplate.NPT_CreativeWork_Creator]
 #. defaultMessage is:
@@ -1372,7 +1376,7 @@ msgstr "Precio actual del IQ"
 #. Currently Staked
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Currently Staked"
-msgstr "Actualmente en juego"
+msgstr "Actualmente invertido"
 
 #. [Leaderboard.DayCap]
 #. defaultMessage is:
@@ -1386,7 +1390,7 @@ msgstr "DÍA"
 #. Dashboard
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
 msgid "Dashboard"
-msgstr ""
+msgstr "Panel"
 
 #. [NewPageTemplate.NPT_CreativeWork_Date_Created]
 #. defaultMessage is:
@@ -1411,7 +1415,7 @@ msgstr "Descentralizado"
 #. Delete Message
 #: translations/.messages/src/app/components/Chat/index.json
 msgid "Delete Message"
-msgstr "Borrar Mensaje"
+msgstr "Borra Mensaje"
 
 #. [CitationEditorNode.Delete]
 #. defaultMessage is:
@@ -1430,7 +1434,7 @@ msgstr "Borrar Mensaje"
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery.node.json
 #: translations/.messages/src/editor/plugins/section-embed/section-embed.node.json
 msgid "Delete?"
-msgstr "Borrar esta etiqueta"
+msgstr "¿Borrar?"
 
 #. [About.Democratic]
 #. defaultMessage is:
@@ -1444,28 +1448,28 @@ msgstr "Democrático"
 #. Democratic Governance
 #: translations/.messages/src/app/containers/about/about.container.json
 msgid "Democratic Governance"
-msgstr "Gestión democrática"
+msgstr "Gobernanza democrática"
 
 #. [IQTab.ActivityType.deposit]
 #. defaultMessage is:
 #. Deposit
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Deposit"
-msgstr "Obtener IQ"
+msgstr "Deposite"
 
 #. [Dashboard.IQTab.DepositIQ.DepositAddress]
 #. defaultMessage is:
 #. Deposit Address
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
 msgid "Deposit Address"
-msgstr "Dirección de correo electrónico"
+msgstr "Dirección de depósito"
 
 #. [Dashboard.IQTab.DepositIQ.DepositIQ]
 #. defaultMessage is:
 #. Deposit IQ
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
 msgid "Deposit IQ"
-msgstr "Obtener IQ"
+msgstr "Deposite IQ"
 
 #. [About.DesktopViewAlt]
 #. defaultMessage is:
@@ -1483,21 +1487,21 @@ msgstr "Vista de escritorio del artículo de Everipedia"
 #: translations/.messages/src/editor/components/continuation-guard/continuation-guard.component.json
 #: translations/.messages/src/editor/editor.container.json
 msgid "Discard"
-msgstr "Descartar"
+msgstr "Descarta"
 
 #. [EditProfile.DisplayName]
 #. defaultMessage is:
 #. Display Name
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Display Name"
-msgstr "Nombre para mostrar"
+msgstr "Nombre mostrado"
 
 #. [EditProfile.DisplayNameMustBeLonger]
 #. defaultMessage is:
 #. Display Name must be longer than 3 characters
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Display Name must be longer than 3 characters"
-msgstr "El nombre para mostrar debe tener más de 3 caracteres"
+msgstr "El nombre mostrado debe tener más de 3 caracteres"
 
 #. [LoginModal.DoYouHaveAnEPAccount]
 #. defaultMessage is:
@@ -1507,13 +1511,15 @@ msgid ""
 "Do you have an Everipedia account using OreID? Merging your accounts will "
 "unify your history and streaks."
 msgstr ""
+"¿Tienes una cuenta de Everipedia con OreID? Fusionar tus cuentas hará que "
+"se unifique tu historial y tu rastro".
 
 #. [EpIdLogin.DontHaveAccountQuestion]
 #. defaultMessage is:
 #. Don't have an account?
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Don't have an account?"
-msgstr "Obtener una cuenta"
+msgstr "¿No tiene una cuenta?"
 
 #. [Tooltips.EditorComment]
 #. defaultMessage is:
@@ -1527,7 +1533,7 @@ msgstr "COMENTARIO DEL EDITOR"
 #. EDITORS
 #: translations/.messages/src/app/containers/admin/admin.container.json
 msgid "EDITORS"
-msgstr "Editores"
+msgstr "EDITORES"
 
 #. [ActivityCards.edits]
 #. defaultMessage is:
@@ -1538,7 +1544,7 @@ msgstr "Editores"
 #: translations/.messages/src/app/components/ActivityCards/index.json
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "EDITS"
-msgstr "Modificaciones"
+msgstr "EDICIONES"
 
 #. [SectionEmbedModal.AudioPane.EmbedSize]
 #. defaultMessage is:
@@ -1557,14 +1563,14 @@ msgstr "Modificaciones"
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/tweets.json
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "EMBED SIZE"
-msgstr "TAMAÑO DE LA EMBALA"
+msgstr "TAMAÑO INCRUSTADO"
 
 #. [Dashboard.IQTab.WithdrawIQ.WithdrawalAddress]
 #. defaultMessage is:
 #. EOS Address or EPID Account
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "EOS Address or EPID Account"
-msgstr "Obtener una cuenta"
+msgstr "Dirección EOS o cuenta EPID"
 
 #. [HighIQBalanceAlert.EPIDIsAnEductionalTool]
 #. defaultMessage is:
@@ -1574,20 +1580,22 @@ msgid ""
 "EPID is an educational tool for starting with crypto. Once you have 100,000 "
 "IQ, we recommend you store a majority of your funds in your own wallet."
 msgstr ""
+"EPID es una herramienta educativa para empezar con las criptomonedas. Una vez que tengas 100.000 "
+"IQ, le recomendamos que almacene la mayoría de sus fondos en su propia cartera".
 
 #. [ActivityCards.ExpiringSoon]
 #. defaultMessage is:
 #. EXPIRING SOON
 #: translations/.messages/src/app/components/ActivityCards/index.json
 msgid "EXPIRING SOON"
-msgstr "CADUCA PRONTO"
+msgstr "EXPIRA PROXIMAMENTE"
 
 #. [SubmitVoteConfirmation.EarnIQRewards]
 #. defaultMessage is:
 #. Earn IQ rewards by voting.
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Earn IQ rewards by voting."
-msgstr "Gane recompensas de IQ votando."
+msgstr "Gane IQ votando."
 
 #. [About.EarnRewardsTitle]
 #. defaultMessage is:
@@ -1613,63 +1621,63 @@ msgstr "Gane recompensas por contribuir"
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 #: translations/.messages/src/shared/inputs/file-uploader/file-uploader.component.json
 msgid "Edit"
-msgstr "Editar"
+msgstr "EditE"
 
 #. [CategoriesNode.EditCategories]
 #. defaultMessage is:
 #. Edit Categories
 #: translations/.messages/src/editor/plugins/categories/categories.node.json
 msgid "Edit Categories"
-msgstr "Editar las categorías"
+msgstr "Edite las categorías"
 
 #. [Chat.EditNow]
 #. defaultMessage is:
 #. Edit Now
 #: translations/.messages/src/app/components/ArticleComponent/index.json
 msgid "Edit Now"
-msgstr "Editar ahora"
+msgstr "Edite ahora"
 
 #. [IQTab.ActivityType.slash]
 #. defaultMessage is:
 #. Edit Or Vote Penalty
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Edit Or Vote Penalty"
-msgstr ""
+msgstr "Edite o vote la penalización"
 
 #. [EditProfile.EditPublicProfile]
 #. defaultMessage is:
 #. Edit Public Profile
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Edit Public Profile"
-msgstr "Editar Perfil publico"
+msgstr "Edite Perfil publico"
 
 #. [IQTab.ActivityType.reward-editor]
 #. defaultMessage is:
 #. Edit Reward
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Edit Reward"
-msgstr "corregido"
+msgstr "Edite recompensa"
 
 #. [IQTab.ActivityType.propose]
 #. defaultMessage is:
 #. Edit Stake
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Edit Stake"
-msgstr "Estacado"
+msgstr "Edite lo invertido"
 
 #. [MetadataModal.Title]
 #. defaultMessage is:
 #. Edit a metadata item
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Edit a metadata item"
-msgstr "Editar un elemento de metadatos"
+msgstr "Edite un elemento de metadatos"
 
 #. [CategoriesModal.Title]
 #. defaultMessage is:
 #. Edit the page's categories
 #: translations/.messages/src/editor/plugins/categories/categories-modal.json
 msgid "Edit the page's categories"
-msgstr "Editar las categorías"
+msgstr "Edite categoría de las páginas"
 
 #. [ActivityCard.Edited1]
 #. defaultMessage is:
@@ -1680,14 +1688,14 @@ msgstr "Editar las categorías"
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 #: translations/.messages/src/app/containers/category-results/categoryResultCard.json
 msgid "Edited"
-msgstr "corregido"
+msgstr "Editado"
 
 #. [ContactUs.editingVotingIssues]
 #. defaultMessage is:
 #. Editing / Voting issues
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Editing / Voting issues"
-msgstr "Edición/cuestiones de votación"
+msgstr "Problemas de Edición / Votación"
 
 #. [EditorContainer.EditingWikipedia]
 #. defaultMessage is:
@@ -1709,7 +1717,7 @@ msgstr ""
 #. Editor
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Editor"
-msgstr "Ir al Perfil del Editor"
+msgstr "Editor"
 
 #. [DashboardComponent.Edits]
 #. defaultMessage is:
@@ -1720,14 +1728,14 @@ msgstr "Ir al Perfil del Editor"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Edits"
-msgstr "Modificaciones"
+msgstr "Ediciones"
 
 #. [MetadataModal.ElectronicsSoftware]
 #. defaultMessage is:
 #. Electronics / Software
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Electronics / Software"
-msgstr "Electrónica/Software"
+msgstr "Electrónica / Software"
 
 #. [EpIdLogin.Email]
 #. defaultMessage is:
@@ -1753,35 +1761,35 @@ msgstr "Email"
 #. Email Address
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Email Address"
-msgstr "Dirección de correo electrónico"
+msgstr "Dirección de email"
 
 #. [LoginModal.EmailComingSoon]
 #. defaultMessage is:
 #. Email Coming Soon
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Email Coming Soon"
-msgstr "Próximamente por correo electrónico"
+msgstr "Próximamente por email"
 
 #. [ContactUs.EmailAddress]
 #. defaultMessage is:
 #. Email address
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Email address"
-msgstr "Dirección de correo electrónico"
+msgstr "Dirección de email"
 
 #. [SectionEmbedModal.MediaTwo]
 #. defaultMessage is:
 #. Embed
 #: translations/.messages/src/editor/plugins/section-embed/section-embed.button.json
 msgid "Embed"
-msgstr "Incrustar"
+msgstr "Incrustado"
 
 #. [SectionEmbedModal.EmbedObject]
 #. defaultMessage is:
 #. Embed Object
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Embed Object"
-msgstr "Incrustar objeto"
+msgstr "Incruste objeto"
 
 #. [SectionEmbedModal.EmbeddingObjectsMakes]
 #. defaultMessage is:
@@ -1789,7 +1797,7 @@ msgstr "Incrustar objeto"
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Embedding objects makes an article more interactive and engaging."
 msgstr ""
-"Agregar medios de comunicación hace que un artículo sea más interactivo y "
+"Agregar medios hace que un artículo sea más interactivo y "
 "atractivo."
 
 #. [NewPageTemplate.NPT_Event_EndDate]
@@ -1815,7 +1823,7 @@ msgstr "Finalizado"
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Enter a URL"
-msgstr "Ingresar una URL"
+msgstr "Ingrese una URL"
 
 #. [CitationModal.AddEditURL.EnterADescription]
 #. defaultMessage is:
@@ -1826,7 +1834,7 @@ msgstr "Ingresar una URL"
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Enter a description"
-msgstr "Introducir descripción"
+msgstr "Introduce una descripción"
 
 #. [AddRelatedModal.SearchPlaceholder]
 #. defaultMessage is:
@@ -1847,7 +1855,7 @@ msgstr "Introduzca un tipo"
 #. Enter your message...
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Enter your message..."
-msgstr "Ingrese su mensaje..."
+msgstr "Introduzca su mensaje..."
 
 #. [TopNav.Error]
 #. defaultMessage is:
@@ -1872,14 +1880,14 @@ msgstr "Código de error"
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Error: "
-msgstr "Error"
+msgstr "Error: "
 
 #. [NewPageTemplate.NPT_Person_Ethnicity]
 #. defaultMessage is:
 #. Ethnicity
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "Ethnicity"
-msgstr "Etnicidad"
+msgstr "Etnia"
 
 #. [MetadataModal.Event]
 #. defaultMessage is:
@@ -1900,7 +1908,7 @@ msgstr "Eventos"
 #. Everipedia
 #: translations/.messages/src/app/components/Footer/index.json
 msgid "Everipedia"
-msgstr "Sobre Everipedia"
+msgstr "Everipedia"
 
 #. [BlogContainer.EveripediaBlog]
 #. defaultMessage is:
@@ -1914,7 +1922,7 @@ msgstr "Sobre Everipedia"
 #: translations/.messages/src/app/containers/blog/blog.container.json
 #: translations/.messages/src/app/containers/blog/blog.slug.container.json
 msgid "Everipedia Blog"
-msgstr "Sobre Everipedia"
+msgstr "Blog de Everipedia"
 
 #. [Directory.EveripediaChat]
 #. defaultMessage is:
@@ -1937,7 +1945,7 @@ msgid ""
 "knowledge base."
 msgstr ""
 "Everipedia le permite crear un artículo sobre cualquier cosa siempre y "
-"cuando tenga una cita. Esto permite un alcance mucho más amplio del "
+"cuando tenga una mención. Esto permite un alcance mucho más amplio del "
 "contenido de la base de conocimientos."
 
 #. [About.LearnMore]
@@ -1980,13 +1988,15 @@ msgid ""
 "Everipedia uses cookies to provide you with a great user experience. "
 "Everipedia will never sell any personal information."
 msgstr ""
+"Everipedia utiliza cookies para ofrecerte una gran experiencia de usuario. "
+"Everipedia nunca venderá ninguna información personal".
 
 #. [FutureKnowledgeSection.EveripediasKnowledgeMarket]
 #. defaultMessage is:
 #. Everipedia's Knowledge Market: PredIQt
 #: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
 msgid "Everipedia's Knowledge Market: PredIQt"
-msgstr ""
+msgstr "Everipedia's Knowledge Market: PredIQt"
 
 #. [Homepage.AboveTheFold.EveripediasVision]
 #. defaultMessage is:
@@ -1997,6 +2007,9 @@ msgid ""
 "blockchain, helping verify facts in an era of misinformation and unlocking a "
 "new class of use cases in financial markets"
 msgstr ""
+"La visión de Everipedia es llevar los datos y el conocimiento del mundo real a la "
+"blockchain, ayudando a verificar los hechos en una era de desinformación y desbloquear una "
+"nueva clase de casos de uso en los mercados financieros"
 
 #. [About.ModernDesignText]
 #. defaultMessage is:
@@ -2032,14 +2045,14 @@ msgstr "Existentes"
 #. Existing Media
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Existing Media"
-msgstr "Medios de comunicación existentes"
+msgstr "Medios existentes"
 
 #. [FutureKnowledgeSection.ExploreMarkets]
 #. defaultMessage is:
 #. Explore Markets
 #: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
 msgid "Explore Markets"
-msgstr ""
+msgstr "Explore Markets"
 
 #. [LastBlock.ExploreYourCuriosity]
 #. defaultMessage is:
@@ -2075,14 +2088,14 @@ msgstr "Preguntas Frecuentes"
 #. Failed to Vote
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Failed to Vote"
-msgstr "No votó"
+msgstr "No ha votado"
 
 #. [ImageUploader.Failure to fetch]
 #. defaultMessage is:
 #. Failure to fetch. Please check the URL
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Failure to fetch. Please check the URL"
-msgstr ""
+msgstr "Fallo en la búsqueda. Por favor, compruebe la URL"
 
 #. [NewPageTemplate.NPT_CreativeWork_Features]
 #. defaultMessage is:
@@ -2108,14 +2121,14 @@ msgstr "Características"
 #. Features include
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/creative-work.json
 msgid "Features include"
-msgstr "Funciones incluidas"
+msgstr "Características incluyen"
 
 #. [NewPageTemplate.NPT_Product_FeaturesOf]
 #. defaultMessage is:
 #. Features of
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/product.json
 msgid "Features of"
-msgstr "Características"
+msgstr "Características de"
 
 #. [ContactUs.feedback]
 #. defaultMessage is:
@@ -2129,21 +2142,21 @@ msgstr "Comentarios"
 #. Fetch
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Fetch"
-msgstr "Extraer"
+msgstr "Busca"
 
 #. [CitationModal.AddEditISBN.FetchInfo]
 #. defaultMessage is:
 #. Fetch Info
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-isbn.json
 msgid "Fetch Info"
-msgstr "Extraer información"
+msgstr "Busca información"
 
 #. [ImageUploader.Fetching]
 #. defaultMessage is:
 #. Fetching...
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Fetching..."
-msgstr "Extraendo..."
+msgstr "Buscando..."
 
 #. [CitationModal.File]
 #. defaultMessage is:
@@ -2182,28 +2195,28 @@ msgstr "Primera edición"
 #. Forgot Password
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Forgot Password"
-msgstr "Confirme su voto"
+msgstr "Contraseña olvidada"
 
 #. [EpIdLogin.ForgotPasswordQuestion]
 #. defaultMessage is:
 #. Forgot Password?
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Forgot Password?"
-msgstr "Confirme su voto"
+msgstr "¿Olvidó su contraseña?"
 
 #. [CommentUtils.Formatting]
 #. defaultMessage is:
 #. Formatting
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Formatting"
-msgstr "Formato"
+msgstr "Formateado"
 
 #. [NewPageTemplate.NPT_Organization_FoundedAt]
 #. defaultMessage is:
 #. Founded at
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "Founded at"
-msgstr "Fundada en"
+msgstr "Fundado en"
 
 #. [NewPageTemplate.NPT_Organization_FoundedOn]
 #. defaultMessage is:
@@ -2245,7 +2258,7 @@ msgstr "Nombre completo"
 #. Full-Stack Software Engineer
 #: translations/.messages/src/app/containers/about/third-block.json
 msgid "Full-Stack Software Engineer"
-msgstr "Director de Ingeniería de Software"
+msgstr "Ingeniero de Software Full-Stack"
 
 #. [NewPageTemplate.NPT_Person_Gender]
 #. defaultMessage is:
@@ -2288,14 +2301,14 @@ msgstr "Obtener IQ"
 #. Get Started
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Get Started"
-msgstr "Comenzar"
+msgstr "Empiece"
 
 #. [ChatList.GetAnAccount]
 #. defaultMessage is:
 #. Get an Account
 #: translations/.messages/src/app/components/Chat/ChatList.json
 msgid "Get an Account"
-msgstr "Obtener una cuenta"
+msgstr "Obtenga una cuenta"
 
 #. [ContactUs.GetInTouch]
 #. defaultMessage is:
@@ -2316,7 +2329,7 @@ msgstr "Obtenga más IQ aquí"
 #. Google Login Failed.
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Google Login Failed."
-msgstr "Impulso fallido"
+msgstr "Error en el inicio de sesión de Google."
 
 #. [LoginModal.Errors.GoogleThirdPartyCookies]
 #. defaultMessage is:
@@ -2326,13 +2339,15 @@ msgid ""
 "Google was unable to access cookies. Please enable third party cookies and "
 "try again."
 msgstr ""
+"Google no ha podido acceder a las cookies. Por favor, activa las cookies de 
+"terceros e inténtalo de nuevo".
 
 #. [EpIdLogin.GotIt]
 #. defaultMessage is:
 #. Got it!
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
 msgid "Got it!"
-msgstr ""
+msgstr "¡Lo tengo!"
 
 #. [CommentUtils.Grammar]
 #. defaultMessage is:
@@ -2346,7 +2361,7 @@ msgstr "Gramática"
 #. Have an old OreID account?
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HaveOreIDAlert.json
 msgid "Have an old OreID account?"
-msgstr "Obtener una cuenta"
+msgstr "¿Tienes una cuenta antigua de OreID?"
 
 #. [NewPageTemplate.NPT_Person_HeSheLikesTo]
 #. defaultMessage is:
@@ -2360,7 +2375,7 @@ msgstr "A él/ella le gusta"
 #. He/she was born in
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/person.json
 msgid "He/she was born in"
-msgstr "Nació en"
+msgstr "Él/ella nació en"
 
 #. [TopNav.ViewHistory]
 #. defaultMessage is:
@@ -2405,21 +2420,21 @@ msgstr "Inicio"
 #. How much IQ should I vote?
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "How much IQ should I vote?"
-msgstr "¿Cuánto coeficiente intelectual debo votar?"
+msgstr "¿Cuánto IQ debo votar?"
 
 #. [EpIdLogin.HowToMerge]
 #. defaultMessage is:
 #. How to merge your accounts?
 #: translations/.messages/src/app/components/Login/EPIDExplanationModal.json
 msgid "How to merge your accounts?"
-msgstr ""
+msgstr "¿Cómo fusionar sus cuentas?"
 
 #. [EpIdRegister.IAcceptThe]
 #. defaultMessage is:
 #. I accept the 
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "I accept the "
-msgstr "Voto aceptado"
+msgstr "Acepto la "
 
 #. [ThirdBlock.ILoveEveripediaBecause]
 #. defaultMessage is:
@@ -2438,14 +2453,14 @@ msgstr ""
 #. I would like to recieve emails from Everipedia
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "I would like to recieve emails from Everipedia"
-msgstr ""
+msgstr "Me gustaría recibir correos electrónicos de Everipedia"
 
 #. [InTheNews.InTheNews]
 #. defaultMessage is:
 #. IN THE NEWS
 #: translations/.messages/src/app/containers/homepageContainer/inTheNews.json
 msgid "IN THE NEWS"
-msgstr "Noticias"
+msgstr "EN LAS NOTICIAS"
 
 #. [Dashboard.IQ]
 #. defaultMessage is:
@@ -2456,14 +2471,14 @@ msgstr "Noticias"
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "IQ"
-msgstr "IQ (Calificación Interna)"
+msgstr "IQ"
 
 #. [Dashboard.IQTab.WithdrawIQ.IQAvailable]
 #. defaultMessage is:
 #. IQ Available
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "IQ Available"
-msgstr "Disponible"
+msgstr "IQ Disponible"
 
 #. [Stats.IQEarned]
 #. defaultMessage is:
@@ -2495,14 +2510,14 @@ msgstr "TITULARES IQ"
 #. IQ Staked
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "IQ Staked"
-msgstr "Estacado"
+msgstr "IQ invertido"
 
 #. [Footer.IQToken]
 #. defaultMessage is:
 #. IQ Token
 #: translations/.messages/src/app/components/Footer/index.json
 msgid "IQ Token"
-msgstr "Ficha IQ"
+msgstr "Token IQ"
 
 #. [About.EarnRewardsText]
 #. defaultMessage is:
@@ -2513,7 +2528,7 @@ msgid ""
 "Everipedia, and as the value of the platform grows, the people who built it "
 "get to share in its success."
 msgstr ""
-"IQ Tokens nos permite llevar un registro y recompensar a la gente por "
+"Los tokens IQ nos permite llevar un registro y recompensar a la gente por "
 "contribuir a Everipedia, y a medida que el valor de la plataforma crece, la "
 "gente que la construyó puede compartir su éxito."
 
@@ -2600,7 +2615,7 @@ msgstr "URL de la imagen"
 #. Incorrect username or password. Please try again.
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Incorrect username or password. Please try again."
-msgstr "Por favor inténtelo de nuevo"
+msgstr "Nombre de usuario o contraseña incorrectos. Por favor, inténtelo de nuevo."
 
 #. [MetadataModal.Indexed]
 #. defaultMessage is:
@@ -2614,14 +2629,14 @@ msgstr "Indexado"
 #. Infobox
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Infobox"
-msgstr "Caja de información"
+msgstr "Infobox"
 
 #. [CommentUtils.Information]
 #. defaultMessage is:
 #. Information
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "Information"
-msgstr "Información y herramientas de IQ"
+msgstr "Información"
 
 #. [SectionEmbedModal.AudioPane.Insert]
 #. defaultMessage is:
@@ -2640,56 +2655,56 @@ msgstr "Información y herramientas de IQ"
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/tweets.json
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "Insert"
-msgstr "Insertar desde la galería de medios"
+msgstr "Inserta"
 
 #. [TableMenu.InsertAbove]
 #. defaultMessage is:
 #. Insert Above
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Insert Above"
-msgstr "Insertar arriba"
+msgstr "Inserta arriba"
 
 #. [TableMenu.InsertBelow]
 #. defaultMessage is:
 #. Insert Below
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Insert Below"
-msgstr "Insertar abajo"
+msgstr "Inserta abajo"
 
 #. [CitationModal.InsertExisting]
 #. defaultMessage is:
 #. Insert Existing
 #: translations/.messages/src/editor/plugins/citation-modal/citation-modal.json
 msgid "Insert Existing"
-msgstr "Insertar Existente"
+msgstr "Inserta Existente"
 
 #. [SectionEmbedModal.InsertFromMediaGallery]
 #. defaultMessage is:
 #. Insert From Media Gallery
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "Insert From Media Gallery"
-msgstr "Insertar desde la galería de medios"
+msgstr "Inserta desde la galería de medios"
 
 #. [TableMenu.InsertLeft]
 #. defaultMessage is:
 #. Insert Left
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Insert Left"
-msgstr "Insertar a la izquierda"
+msgstr "Inserta a la izquierda"
 
 #. [TableMenu.InsertNew]
 #. defaultMessage is:
 #. Insert New
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Insert New"
-msgstr "Insertar Nuevo"
+msgstr "Inserta Nuevo"
 
 #. [TableMenu.InsertRight]
 #. defaultMessage is:
 #. Insert Right
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Insert Right"
-msgstr "Insertar a la derecha"
+msgstr "Inserta a la derecha"
 
 #. [LoginModal.OpenTokenPocket]
 #. defaultMessage is:
@@ -2699,6 +2714,8 @@ msgid ""
 "It appears you are using a browser other than TokenPocket. Please open your "
 "TokenPocket app and try again."
 msgstr ""
+"Parece que está utilizando un navegador distinto de TokenPocket. Por favor, abra su "
+"Aplicación de TokenPocket e inténtalo de nuevo".
 
 #. [EditorDraftContinuationGuard.Unsaved]
 #. defaultMessage is:
@@ -2727,6 +2744,8 @@ msgid ""
 "Join thousands of others in receiving the most interesting wikis on "
 "Everipedia every week"
 msgstr ""
+"Únete a miles de personas para recibir los wikis más interesantes de "
+"Everipedia cada semana"
 
 #. [Login.JustGettingStarted]
 #. defaultMessage is:
@@ -2831,7 +2850,7 @@ msgstr "Lo último de nuestro blog"
 #. Leaderboard of
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Leaderboard of"
-msgstr "Tabla de clasificación"
+msgstr "Tabla de clasificación de"
 
 #. [ChatList.LearnMore]
 #. defaultMessage is:
@@ -2867,7 +2886,7 @@ msgstr "Más información"
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HighIQBalanceAlert.json
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Learn how to set up an EOS account"
-msgstr ""
+msgstr "Aprende a crear una cuenta EOS"
 
 #. [IQInfo.LearnMore]
 #. defaultMessage is:
@@ -2923,21 +2942,21 @@ msgstr "Enlace a fuentes creíbles para apoyar sus ediciones"
 #. List
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "List"
-msgstr "Lista"
+msgstr "Listado"
 
 #. [MetadataModal.ListRanking]
 #. defaultMessage is:
 #. List / Ranking
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "List / Ranking"
-msgstr "Lista / Rango"
+msgstr "Listado / Clasificación"
 
 #. [SearchResults.Lists]
 #. defaultMessage is:
 #. Lists
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Lists"
-msgstr "Listas"
+msgstr "Listados"
 
 #. [About.CensorshipResistantDetail]
 #. defaultMessage is:
@@ -3002,7 +3021,7 @@ msgstr "Bloqueado"
 #. Log in to chat
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "Log in to chat"
-msgstr "Log in para chatear"
+msgstr "Accede para chatear"
 
 #. [Dashboard.LogOut]
 #. defaultMessage is:
@@ -3044,14 +3063,14 @@ msgstr "Cerrar sesión"
 #: translations/.messages/src/app/components/TopNav/account-name-header.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Login"
-msgstr "Iniciar sesión"
+msgstr "Inicie sesión"
 
 #. [EpIdLogin.LoginSuccessfulWithPunctuation]
 #. defaultMessage is:
 #. Login Successful!
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Login Successful!"
-msgstr "La transacción se ha realizado con éxito"
+msgstr "¡Inicio de sesión exitosa!"
 
 #. [Directory.LoginToChat]
 #. defaultMessage is:
@@ -3062,14 +3081,14 @@ msgstr "La transacción se ha realizado con éxito"
 #: translations/.messages/src/app/components/Chat/Directory.json
 #: translations/.messages/src/app/components/Chat/Notifications.json
 msgid "Login to Chat"
-msgstr "Log in para chatear"
+msgstr "Inicia sesión para chatear"
 
 #. [Login.LoginToEveripedia]
 #. defaultMessage is:
 #. Login to Everipedia
 #: translations/.messages/src/app/containers/wallet-login/wallet-login.container.json
 msgid "Login to Everipedia"
-msgstr "Iniciar sesión en Everipedia"
+msgstr "Inicie sesión en Everipedia"
 
 #. [SubmitVote.LoginToStartContributing]
 #. defaultMessage is:
@@ -3094,70 +3113,70 @@ msgstr "Iniciar sesión para participar en el chat del artículo"
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Email"
-msgstr "Iniciar sesión con correo electrónico"
+msgstr "Inicie sesión con su correo electrónico"
 
 #. [LoginModal.LoginWithFacebook]
 #. defaultMessage is:
 #. Login with Facebook
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Facebook"
-msgstr "Iniciar sesión con Facebook"
+msgstr "Inicie sesión con Facebook"
 
 #. [LoginModal.LoginWithGoogle]
 #. defaultMessage is:
 #. Login with Google
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Google"
-msgstr "Iniciar sesión con Google"
+msgstr "Inicie sesión con Google"
 
 #. [LoginModal.LoginWithKakao]
 #. defaultMessage is:
 #. Login with Kakao
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Kakao"
-msgstr "Iniciar sesión con Kakao"
+msgstr "Inicie sesión con Kakao"
 
 #. [LoginModal.LoginWithLine]
 #. defaultMessage is:
 #. Login with Line
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Line"
-msgstr "Iniciar sesión con Line"
+msgstr "Inicie sesión con Line"
 
 #. [LoginModal.LoginWithPhone]
 #. defaultMessage is:
 #. Login with Phone
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Phone"
-msgstr "Iniciar sesión con el teléfono"
+msgstr "Inicie sesión con el teléfono"
 
 #. [LoginModal.LoginWithScatter]
 #. defaultMessage is:
 #. Login with Scatter
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Scatter"
-msgstr "Iniciar sesión con Scatter"
+msgstr "Inicie sesión con Scatter"
 
 #. [Login.LoginWithScatterBlockchain]
 #. defaultMessage is:
 #. Login with Scatter to use your existing EOS blockchain account.
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Scatter to use your existing EOS blockchain account."
-msgstr "Ingresa con Scatter para usar tu cuenta de EOS blockchain existente."
+msgstr "Inicie sesión con Scatter para usar tu cuenta de EOS blockchain existente."
 
 #. [LoginModal.LoginWithTokenPocket]
 #. defaultMessage is:
 #. Login with TokenPocket
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with TokenPocket"
-msgstr "Iniciar sesión con TokenPocket"
+msgstr "Inicie sesión con TokenPocket"
 
 #. [LoginModal.LoginWithTwitter]
 #. defaultMessage is:
 #. Login with Twitter
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Login with Twitter"
-msgstr "Iniciar sesión con Twitter"
+msgstr "Inicie sesión con Twitter"
 
 #. [MediaBox.Media]
 #. defaultMessage is:
@@ -3168,14 +3187,14 @@ msgstr "Iniciar sesión con Twitter"
 #: translations/.messages/src/app/components/ArticleComponent/MediaBox.json
 #: translations/.messages/src/editor/plugins/media-gallery/media-gallery.node.json
 msgid "MEDIA"
-msgstr "Media"
+msgstr "MEDIOS"
 
 #. [Leaderboard.MonthCap]
 #. defaultMessage is:
 #. MONTH
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "MONTH"
-msgstr "Mes"
+msgstr "MES"
 
 #. [ActivityCards.MostRecent]
 #. defaultMessage is:
@@ -3196,21 +3215,21 @@ msgstr "MI ACTIVIDAD"
 #. MY EDITS
 #: translations/.messages/src/app/components/ActivityCards/index.json
 msgid "MY EDITS"
-msgstr "MIS EDITOS"
+msgstr "MIS EDICIONES"
 
 #. [ActivityCards.MyVotes]
 #. defaultMessage is:
 #. MY VOTES
 #: translations/.messages/src/app/components/ActivityCards/index.json
 msgid "MY VOTES"
-msgstr "votos"
+msgstr "MIS VOTOS"
 
 #. [SubmitVote.MakeAnEdit]
 #. defaultMessage is:
 #. Make an Edit
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "Make an Edit"
-msgstr "Realizar una edición"
+msgstr "Realize una edición"
 
 #. [ThirdBlock.MarketCap]
 #. defaultMessage is:
@@ -3259,7 +3278,7 @@ msgstr "Código Médico"
 #. Medical Entities
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Medical Entities"
-msgstr "Código Médico"
+msgstr "Entidad Médica"
 
 #. [SectionEmbedModal.AudioPane.Medium]
 #. defaultMessage is:
@@ -3288,14 +3307,14 @@ msgstr "Conoce a nuestro equipo"
 #. Memo
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Memo"
-msgstr ""
+msgstr "Memo"
 
 #. [Dashboard.IQTab.DepositIQ.MemoRequired]
 #. defaultMessage is:
 #. Memo (Required)
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
 msgid "Memo (Required)"
-msgstr ""
+msgstr "Memo (Requerido)"
 
 #. [CommentUtils.Merge]
 #. defaultMessage is:
@@ -3306,7 +3325,7 @@ msgstr ""
 #: translations/.messages/src/app/utils/comment-utils.json
 #: translations/.messages/src/editor/plugins/merge/index.json
 msgid "Merge"
-msgstr "Fusionar página"
+msgstr "Fusione"
 
 #. [LoginModal.MergeOreIDAccount]
 #. defaultMessage is:
@@ -3320,7 +3339,7 @@ msgstr "Fusionar página"
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/AccountSettings.json
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/HaveOreIDAlert.json
 msgid "Merge OreID Account"
-msgstr "Obtener una cuenta"
+msgstr "Fusionar cuenta OreID"
 
 #. [MergeModal.Title]
 #. defaultMessage is:
@@ -3330,7 +3349,7 @@ msgstr "Obtener una cuenta"
 #. Merge this page into another Everipedia page
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 msgid "Merge this page into another Everipedia page"
-msgstr "Añadir o editar un enlace a otra página de Everipedia"
+msgstr "Fusionar esta página a otra página de Everipedia"
 
 #. [ActivityCard.Merged1]
 #. defaultMessage is:
@@ -3351,21 +3370,21 @@ msgstr "Mensajes"
 #. Migrate Now
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 msgid "Migrate Now"
-msgstr "Editar ahora"
+msgstr "Migrar ahora"
 
 #. [EpIdLogin.MigratingFromOREID?]
 #. defaultMessage is:
 #. Migrating from OREID?
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Migrating from OREID?"
-msgstr ""
+msgstr "¿Migrar desde OREID?"
 
 #. [EpIdLogin.MinimumPasswordLength]
 #. defaultMessage is:
 #. Minimum password length is 8
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Minimum password length is 8"
-msgstr ""
+msgstr "La longitud mínima de la contraseña es de 8"
 
 #. [Errors.MobileEditingComing]
 #. defaultMessage is:
@@ -3432,7 +3451,7 @@ msgstr "Nacionalidad"
 #: translations/.messages/src/app/containers/article/article.container.json
 #: translations/.messages/src/app/utils/comment-utils.json
 msgid "New Article"
-msgstr "Crear artículo nuevo"
+msgstr Nuevo Artículo"
 
 #. [SectionEmbedModal.NewMedia]
 #. defaultMessage is:
@@ -3446,14 +3465,14 @@ msgstr "Nuevo Medio"
 #. New Password
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "New Password"
-msgstr "palabras"
+msgstr "Nueva Contraseña"
 
 #. [Footer.Newsletter]
 #. defaultMessage is:
 #. Newsletter
 #: translations/.messages/src/app/components/Footer/index.json
 msgid "Newsletter"
-msgstr ""
+msgstr "Newsletter"
 
 #. [MetadataNode.No]
 #. defaultMessage is:
@@ -3467,7 +3486,7 @@ msgstr "No"
 #. No Changes
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "No Changes"
-msgstr "Anular Cambios"
+msgstr "Sin Cambios"
 
 #. [Directory.NoChatsInDirectory]
 #. defaultMessage is:
@@ -3485,7 +3504,7 @@ msgstr "No hay chats en el directorio"
 #. No Edits
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "No Edits"
-msgstr "Últimas ediciones"
+msgstr "Sin ediciones"
 
 #. [LinkRenderer.NoPreviewAvailable]
 #. defaultMessage is:
@@ -3499,21 +3518,21 @@ msgstr "Vista previa no disponible"
 #. No Search Results
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "No Search Results"
-msgstr "No hay resultados"
+msgstr "No hay resultados de búsqueda"
 
 #. [Leaderboard.NoVotes]
 #. defaultMessage is:
 #. No Votes
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "No Votes"
-msgstr "Poner Votos"
+msgstr "Sin Votos"
 
 #. [SectionEmbedModal.AudioPane.Images.NoneAvailable]
 #. defaultMessage is:
 #. No audio embeds available. Add to the media gallery first
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/audio.json
 msgid "No audio embeds available. Add to the media gallery first"
-msgstr ""
+msgstr "No hay incrustaciones de audio disponibles. Añada primero a la galería multimedia"
 
 #. [Dashboard.NoInfoAvailableTwo]
 #. defaultMessage is:
@@ -3545,21 +3564,21 @@ msgstr "No se ha devuelto ningún resultado"
 #. No tweets available. Add to citations first
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/tweets.json
 msgid "No tweets available. Add to citations first"
-msgstr ""
+msgstr "No hay tweets disponibles. Añadir a las menciones primero"
 
 #. [SectionEmbedModal.VideosPane.Images.NoneAvailable]
 #. defaultMessage is:
 #. No videos available. Add to media gallery first
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/videos.json
 msgid "No videos available. Add to media gallery first"
-msgstr ""
+msgstr "No hay vídeos disponibles. Añadir primero a la galería multimedia"
 
 #. [Tooltips.NoVotes]
 #. defaultMessage is:
 #. No votes
 #: translations/.messages/src/app/components/tooltips/index.json
 msgid "No votes"
-msgstr "Poner Votos"
+msgstr "Sin Votos"
 
 #. [MetadataModal.None]
 #. defaultMessage is:
@@ -3634,7 +3653,7 @@ msgstr "Profesión"
 #. On the blockchain.
 #: translations/.messages/src/app/containers/homepageContainer/AboveTheFold.json
 msgid "On the blockchain."
-msgstr ""
+msgstr "En el blockchain."
 
 #. [SaveModalAgain.OnceYouSubmitEdits]
 #. defaultMessage is:
@@ -3681,7 +3700,7 @@ msgstr "Organización"
 #. Organization / Company / Institution
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Organization / Company / Institution"
-msgstr "Organización/Empresa/Institución"
+msgstr "Organización / Empresa / Institución"
 
 #. [SearchResults.Organizations]
 #. defaultMessage is:
@@ -3751,14 +3770,14 @@ msgstr ""
 #. Out of IQ
 #: translations/.messages/src/app/components/error-modal/index.json
 msgid "Out of IQ"
-msgstr "Fuera de IQ"
+msgstr "Sin IQ"
 
 #. [Homepage.OwnedByEveryone]
 #. defaultMessage is:
 #. Owned by everyone.
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "Owned by everyone."
-msgstr "Impulsado por "
+msgstr "Propiedad de todo el mundo."
 
 #. [RecentPopularContent.POPULAR]
 #. defaultMessage is:
@@ -3772,7 +3791,7 @@ msgstr "POPULAR"
 #. PRODUCTS
 #: translations/.messages/src/app/components/ArticleComponent/ProductBox.json
 msgid "PRODUCTS"
-msgstr ""
+msgstr "PRODUCTOS"
 
 #. [SearchResults.Profiles]
 #. defaultMessage is:
@@ -3783,14 +3802,14 @@ msgstr ""
 #: translations/.messages/src/app/components/Search/SearchResults.json
 #: translations/.messages/src/app/containers/searchResultsFull/searchResultsFull.container.json
 msgid "PROFILES"
-msgstr "Perfiles"
+msgstr "PERFILES"
 
 #. [MetadataModal.PageNote]
 #. defaultMessage is:
 #. Page Note
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Page Note"
-msgstr "Página Nota"
+msgstr "Nota de Página"
 
 #. [CommentUtils.PageRemoval]
 #. defaultMessage is:
@@ -3850,7 +3869,7 @@ msgstr "Participantes"
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Password"
-msgstr "palabras"
+msgstr "Contraseña"
 
 #. [SearchResults.People]
 #. defaultMessage is:
@@ -3902,7 +3921,7 @@ msgstr "Teléfono"
 #. Place / Location
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Place / Location"
-msgstr "Lugar/Ubicación"
+msgstr "Lugar / Ubicación"
 
 #. [NewPageTemplate.NPT_Person_PlaceOfBirth]
 #. defaultMessage is:
@@ -3923,7 +3942,7 @@ msgstr "Lugares"
 #. Please add at least one citation
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Please add at least one citation"
-msgstr "Por favor, añada al menos una cita"
+msgstr "Por favor, añada al menos una mención"
 
 #. [CitationModal.AddEditURL.PleaseEnterAURL]
 #. defaultMessage is:
@@ -3934,14 +3953,14 @@ msgstr "Por favor, añada al menos una cita"
 #: translations/.messages/src/editor/plugins/citation-modal/panes/add-edit-url.json
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 msgid "Please enter a URL"
-msgstr "Por favor escribe tu mensaje"
+msgstr "Por favor escribe una URL"
 
 #. [ImageUploader.EnterAURL]
 #. defaultMessage is:
 #. Please enter a URL.
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Please enter a URL."
-msgstr "Por favor, entrar un enlace"
+msgstr "Por favor escribe una URL"
 
 #. [FileUploader.CaptionPlaceholder]
 #. defaultMessage is:
@@ -3952,21 +3971,21 @@ msgstr "Por favor, entrar un enlace"
 #: translations/.messages/src/shared/inputs/file-uploader/file-uploader.component.json
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Please enter a caption"
-msgstr "Por favor, Introduzca un asunto"
+msgstr "Por favor, introduzca un título"
 
 #. [SaveModalAgain.CommentPlaceholder]
 #. defaultMessage is:
 #. Please enter a comment for this edit
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Please enter a comment for this edit"
-msgstr "Por favor escribe tu mensaje"
+msgstr "Por favor, introduzca un comentario para esta edición"
 
 #. [ContactUs.PleaseEnterAMessageTwo]
 #. defaultMessage is:
 #. Please enter a message
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Please enter a message"
-msgstr "Por favor escribe tu mensaje"
+msgstr "Por favor escribe un mensaje"
 
 #. [ContactUs.PleaseEnterYourEmailAddressTwo]
 #. defaultMessage is:
@@ -4032,6 +4051,8 @@ msgid ""
 "Popup was closed. If this was an accident, please turn off popup-blockers "
 "and try again."
 msgstr ""
+"La ventana emergente se ha cerrado. Si esto fue un accidente, por favor desactive "
+"los bloqueadores de ventanas emergentes e inténtelo de nuevo".
 
 #. [Footer.PoweredBy]
 #. defaultMessage is:
@@ -4045,14 +4066,14 @@ msgstr "Impulsado por "
 #. Powered by the IQ Token.
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "Powered by the IQ Token."
-msgstr "Impulsado por "
+msgstr "Impulsado por el token IQ."
 
 #. [FutureKnowledgeSection.PredictTheOutcome]
 #. defaultMessage is:
 #. Predict the outcome of future events.
 #: translations/.messages/src/app/containers/homepageContainer/FutureKnowledgeSection/FutureKnowledgeSection.json
 msgid "Predict the outcome of future events."
-msgstr ""
+msgstr "Predeice el resultado de eventos futuros."
 
 #. [TeamInfo.SamKazemianTitle]
 #. defaultMessage is:
@@ -4092,7 +4113,7 @@ msgstr "Privacidad"
 #: translations/.messages/src/app/components/custom-cookie-banner/index.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Privacy Policy"
-msgstr "Privacidad"
+msgstr "Plítica de Privacidad"
 
 #. [MetadataModal.Product]
 #. defaultMessage is:
@@ -4106,7 +4127,7 @@ msgstr "Producto"
 #. Product / Merchandise
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Product / Merchandise"
-msgstr "Producto/Mercancía"
+msgstr "Producto / Mercancía"
 
 #. [NewPageTemplate.NPT_Product_ProductionDate]
 #. defaultMessage is:
@@ -4127,7 +4148,7 @@ msgstr "Productos"
 #. Profile
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Profile"
-msgstr "Perfil del editor"
+msgstr "Perfil"
 
 #. [EditProfile.ProfileImage]
 #. defaultMessage is:
@@ -4175,7 +4196,7 @@ msgstr "Indique el motivo de su voto (opcional)"
 #. Questions? 
 #: translations/.messages/src/app/containers/contact-us/contact-form.json
 msgid "Questions? "
-msgstr "Preguntas frecuentes"
+msgstr "¿Preguntas?"
 
 #. [Login.QuicklyLoginSocialAccount]
 #. defaultMessage is:
@@ -4200,7 +4221,7 @@ msgstr "RECIENTE"
 #. RECENT TWEETS
 #: translations/.messages/src/app/components/ArticleComponent/TweetBox.json
 msgid "RECENT TWEETS"
-msgstr "DOS PUNTOS RECIENTES"
+msgstr "TWEETS RECIENTES"
 
 #. [RecentPopularContent.RECENTLYUPDATED]
 #. defaultMessage is:
@@ -4214,7 +4235,7 @@ msgstr "RECIENTEMENTE ACTUALIZADO"
 #. REWARDS
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "REWARDS"
-msgstr ""
+msgstr "RECOMPENSAS"
 
 #. [TopNav.Read]
 #. defaultMessage is:
@@ -4272,28 +4293,28 @@ msgstr "Referencias"
 #. Register or Login with Email
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Register or Login with Email"
-msgstr "Iniciar sesión con correo electrónico"
+msgstr "Regístrese o inicie sesión con correo electrónico"
 
 #. [LoginModal.RegisterWithEmail]
 #. defaultMessage is:
 #. Register with Email
 #: translations/.messages/src/app/components/Login/Login.json
 msgid "Register with Email"
-msgstr "Iniciar sesión con correo electrónico"
+msgstr "Regístrese con correo electrónico"
 
 #. [EpIdLogin.RegistrationSuccessfulWithPunctuation]
 #. defaultMessage is:
 #. Registration Successful!
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Registration Successful!"
-msgstr "La transacción se ha realizado con éxito"
+msgstr "Registro se ha realizado con éxito"
 
 #. [SubmitVoteConfirmation.Reject]
 #. defaultMessage is:
 #. Reject
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Reject"
-msgstr "Rechazar"
+msgstr "Rechace"
 
 #. [SubmitVote.Rejected]
 #. defaultMessage is:
@@ -4349,35 +4370,35 @@ msgstr "Eliminar"
 #. Remove Page
 #: translations/.messages/src/editor/plugins/metadata/metadata-modal.json
 msgid "Remove Page"
-msgstr "Eliminar página"
+msgstr "Elimine página"
 
 #. [ActivityCard.Removed1]
 #. defaultMessage is:
 #. Removed
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 msgid "Removed"
-msgstr "Removido"
+msgstr "Eliminado"
 
 #. [Chat.Reply]
 #. defaultMessage is:
 #. Reply
 #: translations/.messages/src/app/components/Chat/index.json
 msgid "Reply"
-msgstr "Responder"
+msgstr "Responda"
 
 #. [ContactUs.reportBug]
 #. defaultMessage is:
 #. Report a Bug
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Report a Bug"
-msgstr "Informar de un error"
+msgstr "Informe de un error"
 
 #. [EpIdLogin.ResendEmail]
 #. defaultMessage is:
 #. Resend Email
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Resend Email"
-msgstr "Iniciar sesión con correo electrónico"
+msgstr "Reenvíe email"
 
 #. [EpIdLogin.ResetPassword]
 #. defaultMessage is:
@@ -4388,14 +4409,14 @@ msgstr "Iniciar sesión con correo electrónico"
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Reset Password"
-msgstr "palabras"
+msgstr "Reinicie contraseña"
 
 #. [EditOverview.Restore]
 #. defaultMessage is:
 #. Restore
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "Restore"
-msgstr ""
+msgstr "Restaure"
 
 #. [Stats.RestrictedArea]
 #. defaultMessage is:
@@ -4413,7 +4434,7 @@ msgstr "Área restringida."
 #: translations/.messages/src/editor/components/continuation-guard/continuation-guard.component.json
 #: translations/.messages/src/editor/editor.container.json
 msgid "Resume"
-msgstr "Reanudar"
+msgstr "Reanude"
 
 #. [TableMenu.Row]
 #. defaultMessage is:
@@ -4476,7 +4497,7 @@ msgstr ""
 #: translations/.messages/src/editor/plugins/section-embed-modal/panes/add-edit-url.json
 #: translations/.messages/src/shared/inputs/image-uploader/image-uploader.component.json
 msgid "Save"
-msgstr "Guardar"
+msgstr "Guarde"
 
 #. [MetadataModal.ScienceAcademiaHumanities]
 #. defaultMessage is:
@@ -4490,7 +4511,7 @@ msgstr "Ciencias/Academia/Humanidades"
 #. Search
 #: translations/.messages/src/app/containers/homepageContainer/HomepageSearch.json
 msgid "Search"
-msgstr "Buscando..."
+msgstr "Busca"
 
 #. [Search.SearchPlaceholder]
 #. defaultMessage is:
@@ -4501,21 +4522,21 @@ msgstr "Buscando..."
 #: translations/.messages/src/app/components/Search/index.json
 #: translations/.messages/src/shared/components/DynamicAppHead/index.json
 msgid "Search Everipedia..."
-msgstr "Buscar Everipedia"
+msgstr "Busca en Everipedia..."
 
 #. [Search.CreateNewSearchMobile]
 #. defaultMessage is:
 #. Search to find out if the topic already exists
 #: translations/.messages/src/app/components/Search/index.json
 msgid "Search to find out if the topic already exists"
-msgstr "Buscar para averiguar si el tema ya existe"
+msgstr "Busque para averiguar si el tema ya existe"
 
 #. [Search.CreateNewSearch]
 #. defaultMessage is:
 #. Search to find out if the topic already has an article
 #: translations/.messages/src/app/components/Search/index.json
 msgid "Search to find out if the topic already has an article"
-msgstr "Buscar para averiguar si el tema ya tiene un artículo"
+msgstr "Busque para averiguar si el tema ya tiene un artículo"
 
 #. [CategoriesModal.Searching]
 #. defaultMessage is:
@@ -4547,7 +4568,7 @@ msgstr "Ver más artículos en el blog"
 #. See something missing?
 #: translations/.messages/src/app/components/ArticleComponent/index.json
 msgid "See something missing?"
-msgstr "¿Ves que falta algo?"
+msgstr "¿Ves que falte algo?"
 
 #. [MergeModalAgain.SeeYourEditOnABlockExplorer]
 #. defaultMessage is:
@@ -4565,14 +4586,14 @@ msgstr "Ver tu edición en un explorador de bloques"
 #. Seed
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Seed"
-msgstr ""
+msgstr "Seed"
 
 #. [EditProfile.Select]
 #. defaultMessage is:
 #. Select
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Select"
-msgstr "Por favor, seleccione una categoría de comentarios"
+msgstr "Seleccione"
 
 #. [LoginModal.SelectOtherSocial]
 #. defaultMessage is:
@@ -4607,21 +4628,21 @@ msgstr "Seleccione un motivo diferente"
 #. Send
 #: translations/.messages/src/app/components/Chat/ChatInput.json
 msgid "Send"
-msgstr "Enviar"
+msgstr "Envia"
 
 #. [ContactUs.sendAnother]
 #. defaultMessage is:
 #. Send Another
 #: translations/.messages/src/app/containers/contact-us/messages.json
 msgid "Send Another"
-msgstr "Agregar otro"
+msgstr "Envía otro"
 
 #. [Dashboard.IQTab.WithdrawIQ.SendIQ]
 #. defaultMessage is:
 #. Send IQ
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Send IQ"
-msgstr "Enviar"
+msgstr "Envía IQ"
 
 #. [Chat.SendMessageToEditors]
 #. defaultMessage is:
@@ -4631,7 +4652,7 @@ msgstr "Enviar"
 #. Send a message to other editors
 #: translations/.messages/src/app/components/Chat/messages.json
 msgid "Send a message to other editors"
-msgstr "Enviar un mensaje a otros editores"
+msgstr "Envía un mensaje a otros editores"
 
 #. [ContactUs.sendUsMessage]
 #. defaultMessage is:
@@ -4645,7 +4666,7 @@ msgstr "Envíenos un mensaje"
 #. Sender
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Sender"
-msgstr "Género"
+msgstr "Remitente"
 
 #. [NewPageTemplate.NPT_Organization_Services]
 #. defaultMessage is:
@@ -4666,14 +4687,14 @@ msgstr "Servicios"
 #. Set Password
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Set Password"
-msgstr "palabras"
+msgstr "Establezca contraseña"
 
 #. [Dashboard.Settings]
 #. defaultMessage is:
 #. Settings
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/TopNav.json
 msgid "Settings"
-msgstr ""
+msgstr "Ajustes"
 
 #. [ShareModal.ShareVia]
 #. defaultMessage is:
@@ -4687,7 +4708,7 @@ msgstr "Compartir en:"
 #. Show All Citations
 #: translations/.messages/src/app/components/ArticleComponent/References.json
 msgid "Show All Citations"
-msgstr "Mostrar todas las citas"
+msgstr "Mostrar todas las menciones"
 
 #. [LearnMore.SignUp]
 #. defaultMessage is:
@@ -4710,21 +4731,21 @@ msgstr "Mostrar todas las citas"
 #: translations/.messages/src/app/containers/about/last-block.json
 #: translations/.messages/src/app/utils/errors.json
 msgid "Sign Up"
-msgstr "Registrarse"
+msgstr "Regístrese"
 
 #. [BlogSlugContainer.SignMeUp]
 #. defaultMessage is:
 #. Sign me up
 #: translations/.messages/src/app/containers/blog/blog.slug.container.json
 msgid "Sign me up"
-msgstr "Registrarse"
+msgstr "Regístrame"
 
 #. [SubmitVoteConfirmation.SignWithWallet]
 #. defaultMessage is:
 #. Sign with Wallet
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Sign with Wallet"
-msgstr "Cartel con billetera"
+msgstr "Firme con billetera"
 
 #. [SectionEmbedModal.AudioPane.Small]
 #. defaultMessage is:
@@ -4757,14 +4778,14 @@ msgstr "Plataformas Sociales"
 #. Stake Return
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Stake Return"
-msgstr ""
+msgstr "Devolución de inversión"
 
 #. [AccountNameHeader.Staked]
 #. defaultMessage is:
 #. Staked
 #: translations/.messages/src/app/components/TopNav/account-name-header-user.json
 msgid "Staked"
-msgstr "Estacado"
+msgstr "Invertido"
 
 #. [Homepage.StartContributing]
 #. defaultMessage is:
@@ -4836,21 +4857,21 @@ msgstr "Tipo de subpágina"
 #: translations/.messages/src/editor/plugins/save/index.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Submit"
-msgstr "Enviar"
+msgstr "Envíe"
 
 #. [SaveModalAgain.Heading]
 #. defaultMessage is:
 #. Submit Article Edits
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Submit Article Edits"
-msgstr "Enviar ediciones de artículos"
+msgstr "Envíe ediciones de artículos"
 
 #. [SaveModalAgain.SubmittingYourArticleEdit]
 #. defaultMessage is:
 #. Submitting Your Article Edit
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Submitting Your Article Edit"
-msgstr "Envío de su artículo Editar"
+msgstr "Enviando su artículo Editado"
 
 #. [EpIdLogin.SuccessExclamation]
 #. defaultMessage is:
@@ -4861,14 +4882,14 @@ msgstr "Envío de su artículo Editar"
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Success!"
-msgstr "La transacción se ha realizado con éxito"
+msgstr "¡Logrado!"
 
 #. [SubmitVoteConfirmation.Success]
 #. defaultMessage is:
 #. Successfully Voted!
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "Successfully Voted!"
-msgstr "Votado con éxito!"
+msgstr "¡Votado con éxito!"
 
 #. [SubmitVote.SuccessfullyPlaced]
 #. defaultMessage is:
@@ -4902,28 +4923,28 @@ msgstr ""
 #. Supported Exchanges
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Supported Exchanges"
-msgstr "Intercambios compatibles"
+msgstr "Exchanges compatibles"
 
 #. [IQInfo.SupportedWallets]
 #. defaultMessage is:
 #. Supported Wallets
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "Supported Wallets"
-msgstr "Billeteras soportadas"
+msgstr "Billeteras compatibles"
 
 #. [Stats.TotalEdits]
 #. defaultMessage is:
 #. TOTAL EDITS
 #: translations/.messages/src/app/containers/admin/admin.container.json
 msgid "TOTAL EDITS"
-msgstr "TOTAL EDICIONES"
+msgstr "EDICIONES TOTALES"
 
 #. [SaveModalAgain.TxFailed]
 #. defaultMessage is:
 #. TRANSACTION FAILED!
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "TRANSACTION FAILED!"
-msgstr "TRANSACCIÓN FALLIDA!"
+msgstr "¡TRANSACCIÓN FALLIDA!"
 
 #. [SaveModalAgain.TxSuccess]
 #. defaultMessage is:
@@ -4944,14 +4965,14 @@ msgstr "POPULARES"
 #. Table
 #: translations/.messages/src/editor/plugins/table/table-button.json
 msgid "Table"
-msgstr "Tabla de contenidos y hechos para este wiki"
+msgstr "Tabla"
 
 #. [AdultContentContainer.TakeMeHome]
 #. defaultMessage is:
 #. Take Me Home
 #: translations/.messages/src/app/containers/article/AdultContentContainer.json
 msgid "Take Me Home"
-msgstr ""
+msgstr "Llévame a inicio"
 
 #. [About.ModernAge]
 #. defaultMessage is:
@@ -5031,7 +5052,7 @@ msgstr ""
 #: translations/.messages/src/app/containers/about/about.container.json
 #: translations/.messages/src/app/containers/contact-us/contact-us.container.json
 msgid "The Encyclopedia of Everything."
-msgstr "Everipedia, la enciclopedia de todo"
+msgstr "La enciclopedia de todo"
 
 #. [About.TheEveripediaIQBlockchain]
 #. defaultMessage is:
@@ -5151,6 +5172,7 @@ msgstr "No hay actividad en este artículo."
 msgid ""
 "There was a problem with your request. Please try again or contact support."
 msgstr ""
+"Hubo un problema con su solicitud. Por favor, inténtalo de nuevo o ponte en contacto con el servicio de asistencia".
 
 #. [SaveModalAgain.ThereWasAnIssueRecording]
 #. defaultMessage is:
@@ -5164,7 +5186,7 @@ msgstr "Hubo un problema al grabar tu edición."
 #. These exchanges do not require signup, only Scatter
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "These exchanges do not require signup, only Scatter"
-msgstr "Estos intercambios no requieren registro, sólo Scatter"
+msgstr "Estos exchanges no requieren registro, sólo Scatter"
 
 #. [IQInfo.CentralizedBlurb]
 #. defaultMessage is:
@@ -5174,7 +5196,7 @@ msgid ""
 "These exchanges require personal information for signup, but may have "
 "additional features and fiat currency deposits / withdrawals"
 msgstr ""
-"Estos intercambios requieren información personal para registrarse, pero "
+"Estos exchanges requieren información personal para registrarse, pero "
 "pueden tener características adicionales y depósitos/retiros de moneda "
 "fiduciarios"
 
@@ -5190,21 +5212,21 @@ msgstr "Cosa"
 #. Things
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "Things"
-msgstr "Gjërat"
+msgstr "Cosas"
 
 #. [Leaderboard.ThisMonth]
 #. defaultMessage is:
 #. This Month
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "This Month"
-msgstr ""
+msgstr "Este Mes"
 
 #. [Leaderboard.ThisWeek]
 #. defaultMessage is:
 #. This Week
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "This Week"
-msgstr ""
+msgstr "Esta Semana"
 
 #. [SubmitVote.NotMostRecent]
 #. defaultMessage is:
@@ -5230,7 +5252,7 @@ msgstr "Esta página está bloqueada para nuevas ediciones."
 #: translations/.messages/src/app/containers/article/AdultContentContainer.json
 msgid "This page may contain adult content, would you like to continue?"
 msgstr ""
-"Parece que puedes tener ediciones no guardadas. ¿Te gustaría continuar?"
+"Esta página puede tener contenido para adultos, ¿desea continuar?"
 
 #. [ActivityCard.TitleNotAvailable]
 #. defaultMessage is:
@@ -5263,6 +5285,8 @@ msgid ""
 "To deposit IQ into your account please go to your wallet or exchange and "
 "send to the EOS wallet address with the memo below."
 msgstr ""
+"Para depositar IQ en su cuenta por favor vaya a su cartera o intercambio y "
+"envíalo a la dirección del monedero de EOS con la nota de abajo".
 
 #. [Errors.ToEditThisArticleRightNow]
 #. defaultMessage is:
@@ -5285,14 +5309,14 @@ msgstr "Para editar o crear un artículo, necesitas una cuenta de Everipedia."
 #. Today
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "Today"
-msgstr ""
+msgstr "Hoy"
 
 #. [EpIdLogin.ErrorTooManyAttempts]
 #. defaultMessage is:
 #. Too many login attempts. Please try again later.
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Too many login attempts. Please try again later."
-msgstr ""
+msgstr "Demasiados intentos de inicio de sesión. Por favor, inténtelo de nuevo más tarde."
 
 #. [Dashboard.TotalBalance]
 #. defaultMessage is:
@@ -5347,7 +5371,7 @@ msgstr "Trivia"
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Try Again"
-msgstr "Volver a intentarlo"
+msgstr "Inténtalo de nuevo"
 
 #. [Login.TryAgainTwo]
 #. defaultMessage is:
@@ -5376,14 +5400,14 @@ msgstr "Tipo"
 #. Type of Edit
 #: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
 msgid "Type of Edit"
-msgstr "Últimas ediciones"
+msgstr "Tipo de edición"
 
 #. [CategoriesModal.SelectCategories]
 #. defaultMessage is:
 #. Type to search categories
 #: translations/.messages/src/editor/plugins/categories/categories-modal.json
 msgid "Type to search categories"
-msgstr "Escribe para buscar..."
+msgstr "Escribe para buscar categorías..."
 
 #. [EditorArticleSearch.TypeToSearch]
 #. defaultMessage is:
@@ -5411,14 +5435,14 @@ msgstr "URL Slug Alt"
 #. Undefined error: please try again.
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "Undefined error: please try again."
-msgstr "Por favor inténtelo de nuevo"
+msgstr "Error indefinido: por favor, inténtelo de nuevo."
 
 #. [IQTab.ActivityType.unknown]
 #. defaultMessage is:
 #. Unknown
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Unknown"
-msgstr ""
+msgstr "Desconocido"
 
 #. [MainItem.Updated]
 #. defaultMessage is:
@@ -5468,7 +5492,7 @@ msgstr "Subiendo..."
 #. Use QR Code (enter memo manually)
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/DepositIQ.json
 msgid "Use QR Code (enter memo manually)"
-msgstr ""
+msgstr "Utilizar el código QR (introducir la nota manualmente)"
 
 #. [EditProfile.Username]
 #. defaultMessage is:
@@ -5483,14 +5507,14 @@ msgstr ""
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 #: translations/.messages/src/app/components/Login/epid-register.modal.json
 msgid "Username"
-msgstr ""
+msgstr "Nombre de usuario"
 
 #. [SubmitVote.VersionVotes]
 #. defaultMessage is:
 #. VERSION VOTES
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "VERSION VOTES"
-msgstr "VERSION VOTES"
+msgstr "VOTOS DE VERSION"
 
 #. [ContentTopNav.Views]
 #. defaultMessage is:
@@ -5501,7 +5525,7 @@ msgstr "VERSION VOTES"
 #: translations/.messages/src/app/components/content-top-nav/index.json
 #: translations/.messages/src/app/containers/homepageContainer/stats.json
 msgid "VIEWS"
-msgstr "Vistas"
+msgstr "VISTAS"
 
 #. [ActivityCards.Votes]
 #. defaultMessage is:
@@ -5512,7 +5536,7 @@ msgstr "Vistas"
 #: translations/.messages/src/app/components/ActivityCards/index.json
 #: translations/.messages/src/app/containers/leaderboard/leaderboard.container.json
 msgid "VOTES"
-msgstr "votos"
+msgstr "VOTOS"
 
 #. [InfoboxModal.Value]
 #. defaultMessage is:
@@ -5537,7 +5561,7 @@ msgstr "Valor(es)"
 #. View
 #: translations/.messages/src/app/components/Search/SearchResults.json
 msgid "View"
-msgstr "Vistas"
+msgstr "Vista"
 
 #. [MergeModalAgain.ViewEdit]
 #. defaultMessage is:
@@ -5548,14 +5572,14 @@ msgstr "Vistas"
 #: translations/.messages/src/editor/plugins/merge/merge-modal.json
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "View Edit"
-msgstr "Ver Editar"
+msgstr "Ver Edición"
 
 #. [Leaderboard.ViewFullList]
 #. defaultMessage is:
 #. View Full List
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "View Full List"
-msgstr "Ver historial"
+msgstr "Ver listado completo"
 
 #. [SubmitVoteConfirmation.ViewTransaction]
 #. defaultMessage is:
@@ -5569,7 +5593,7 @@ msgstr "Ver Transacción"
 #. View blockchain transaction
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "View blockchain transaction"
-msgstr "Ver transacción de cadena de bloques"
+msgstr "Ver transacción blockchain"
 
 #. [Chat.ViewEdit]
 #. defaultMessage is:
@@ -5583,7 +5607,7 @@ msgstr "Ver edición"
 #. View on CoinMarketCap
 #: translations/.messages/src/app/containers/homepageContainer/homepage.container.json
 msgid "View on CoinMarketCap"
-msgstr ""
+msgstr "Ver en CoinMarketCap"
 
 #. [SaveModalAgain.ViewTransaction]
 #. defaultMessage is:
@@ -5619,21 +5643,21 @@ msgstr "Vistas"
 #: translations/.messages/src/app/components/SubmitVote/index.json
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Vote"
-msgstr "Votar"
+msgstr "Vota"
 
 #. [IQTab.ActivityType.reward-curation]
 #. defaultMessage is:
 #. Vote Reward
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Vote Reward"
-msgstr "Recompensas totales"
+msgstr "Recompensa de voto"
 
 #. [IQTab.ActivityType.vote]
 #. defaultMessage is:
 #. Vote Stake
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Vote Stake"
-msgstr "Estacado"
+msgstr "Voto invertido"
 
 #. [Chat.VoteAcceptedTwo]
 #. defaultMessage is:
@@ -5694,7 +5718,7 @@ msgstr "Votado"
 #: translations/.messages/src/app/containers/dashboard/dashboard_component.json
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "Votes"
-msgstr "votos"
+msgstr "Votos"
 
 #. [SubmitVote.VotingCloses]
 #. defaultMessage is:
@@ -5715,7 +5739,7 @@ msgstr "Votación fallida"
 #. WEEK
 #: translations/.messages/src/app/containers/homepageContainer/leaderboard.json
 msgid "WEEK"
-msgstr "Semana"
+msgstr "SEMANA"
 
 #. [Stats.ArticlesTwo]
 #. defaultMessage is:
@@ -5758,7 +5782,7 @@ msgstr "Espere un momento mientras cargamos la ventana de transacción de Lynx."
 #. Wait a moment while we load your account.
 #: translations/.messages/src/editor/plugins/save/save-modal.json
 msgid "Wait a moment while we load your account."
-msgstr "Espera un momento mientras cargamos a Lynx."
+msgstr "Espera un momento mientras cargamos su cuenta."
 
 #. [LoginModal.WaitAMomentWhileWeLoad]
 #. defaultMessage is:
@@ -5790,8 +5814,8 @@ msgid ""
 "Wait a moment while we redirect you to Ore ID.  You will be returned here "
 "once you have completed signing"
 msgstr ""
-"Espere un momento mientras lo redirigimos a la identificación del mineral.  "
-"Usted será devuelto aquí una vez que haya completado la firma"
+"Espera un momento mientras te redirigimos a Ore ID.  Se le devolverá aquí "
+"una vez que haya terminado de firmar"
 
 #. [AdultContentContainer.Warning]
 #. defaultMessage is:
@@ -5840,6 +5864,10 @@ msgid ""
 "account. If you have an existing account, you will be asked to merge it with "
 "youur new account in order to retain your edit history and IQ balance."
 msgstr ""
+"Ahora utilizamos el EPID para todos los usuarios que deseen iniciar sesión con una cuenta social o "
+"correo electrónico. Como parte de este proceso, se le pedirá que cree una nueva "
+"cuenta. Si ya tiene una cuenta, se le pedirá que la fusione con "
+"tu nueva cuenta para conservar tu historial de ediciones y tu saldo de CI".
 
 #. [MergeModalAgain.WeReceivedTheFollowingError]
 #. defaultMessage is:
@@ -5857,7 +5885,7 @@ msgstr "Recibimos el siguiente error"
 #. We will email you instructions on how to reset your password.
 #: translations/.messages/src/app/components/Login/EmailLoginModal.json
 msgid "We will email you instructions on how to reset your password."
-msgstr ""
+msgstr "Te enviaremos por correo electrónico las instrucciones para restablecer tu contraseña".
 
 #. [ContactUs.WedLoveToHearFromYou]
 #. defaultMessage is:
@@ -5878,28 +5906,28 @@ msgstr "¿A qué artículo quieres enlazar?"
 #. What is IQ?
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/WhatIsIQAlert.json
 msgid "What is IQ?"
-msgstr "¿Qué es el coeficiente intelectual?"
+msgstr "¿Qué es el IQ?"
 
 #. [DynamicAppHead.DefaultTitle]
 #. defaultMessage is:
 #. Wiki Encyclopedia of Everything - Everipedia
 #: translations/.messages/src/shared/components/DynamicAppHead/index.json
 msgid "Wiki Encyclopedia of Everything - Everipedia"
-msgstr "Wiki Enciclopedia de todo - Everipedia"
+msgstr "Enciclopedia Wiki de todo - Everipedia"
 
 #. [IQTab.ActivityType.withdraw]
 #. defaultMessage is:
 #. Withdraw
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/IQTab.json
 msgid "Withdraw"
-msgstr "Su voto fue un éxito"
+msgstr "Retirar"
 
 #. [Dashboard.IQTab.WithdrawIQ.WithdrawIQ]
 #. defaultMessage is:
 #. Withdraw IQ
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Withdraw IQ"
-msgstr "Su voto fue un éxito"
+msgstr "Retirar IQ"
 
 #. [AccountNameHeader.Worth]
 #. defaultMessage is:
@@ -5910,7 +5938,7 @@ msgstr "Su voto fue un éxito"
 #: translations/.messages/src/app/components/TopNav/account-name-header-user.json
 #: translations/.messages/src/app/containers/dashboard/MyUserDashboard/IQTab/WithdrawIQ.json
 msgid "Worth"
-msgstr "Vale la pena"
+msgstr "Valor"
 
 #. [Chat.WriteAMessage]
 #. defaultMessage is:
@@ -5938,14 +5966,14 @@ msgstr "Sí"
 #. You are out of IQ.
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "You are out of IQ."
-msgstr "Estás fuera de IQ."
+msgstr "Estás sin IQ."
 
 #. [IQInfo.YouCan]
 #. defaultMessage is:
 #. You can
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "You can"
-msgstr "También puedes crear un nuevo artículo en la wiki haciendo clic aquí."
+msgstr "También puedes"
 
 #. [SubmitVoteConfirmation.YouCan]
 #. defaultMessage is:
@@ -6027,7 +6055,7 @@ msgstr "Su edición no ha sido enviada"
 #. Your OreID account was successfully merged to your EPID Account!
 #: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
 msgid "Your OreID account was successfully merged to your EPID Account!"
-msgstr ""
+msgstr "¡Su cuenta OreID se ha fusionado con éxito con su cuenta EPID!"
 
 #. [SubmitVoteConfirmation.YourVoteWasSuccessful]
 #. defaultMessage is:
@@ -6042,7 +6070,7 @@ msgstr "Su voto fue un éxito"
 #: translations/.messages/src/app/containers/oreid-callback/oreid-callback.container.json
 msgid ""
 "Your account balance, votes, and edits are now associated to this account."
-msgstr ""
+msgstr "El saldo de tu cuenta, los votos y las ediciones están ahora asociados a esta cuenta".
 
 #. [Directory.ActiveChats]
 #. defaultMessage is:
@@ -6069,22 +6097,22 @@ msgid ""
 "propose your edit will be locked up (staked) for 5 days."
 msgstr ""
 "Su edición será ahora votada por la comunidad. Si es aceptado, recibirás una "
-"recompensa de IQ por tu contribución.  Los IQ Tokens que usó para proponer "
-"su edición serán bloqueados (estacados) durante 21 días."
+"recompensa de IQ por tu contribución. Los IQ Tokens que usó para proponer "
+"su edición serán bloqueados durante 5 días."
 
 #. [EpIdResetPassword.NewPasswordSet]
 #. defaultMessage is:
 #. Your new password has been set.
 #: translations/.messages/src/app/components/Login/EPIDResetPasswordModal.json
 msgid "Your new password has been set."
-msgstr ""
+msgstr "Su nueva contraseña ha sido establecida".
 
 #. [EditProfile.YourProfileUpdateWasSuccessfully]
 #. defaultMessage is:
 #. Your public profile was successfully updated
 #: translations/.messages/src/app/components/edit-profile/index.json
 msgid "Your public profile was successfully updated"
-msgstr "Su voto fue un éxito"
+msgstr "Su perfil público se ha actualizado con éxito"
 
 #. [Login.aboutLoginOptions]
 #. defaultMessage is:
@@ -6126,21 +6154,21 @@ msgstr "nacido"
 #. changed
 #: translations/.messages/src/app/components/SubmitVote/EditOverview.json
 msgid "changed"
-msgstr "Cambiado"
+msgstr "cambiado"
 
 #. [SaveModalAgain.Characters]
 #. defaultMessage is:
 #. characters
 #: translations/.messages/src/editor/plugins/save/save-modal-parts/comment-and-category.json
 msgid "characters"
-msgstr "caracteres"
+msgstr "personajes"
 
 #. [SubmitVote.EditTwo]
 #. defaultMessage is:
 #. edit
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "edit"
-msgstr "Editar"
+msgstr "edita"
 
 #. [ActivityCard.Edited2]
 #. defaultMessage is:
@@ -6155,7 +6183,7 @@ msgstr "Editar"
 #: translations/.messages/src/app/components/Chat/ChatItem.json
 #: translations/.messages/src/app/components/SubmitVote/ConfirmationModal.json
 msgid "edited"
-msgstr "corregido"
+msgstr "editado"
 
 #. [FileUploader.FileSizeTooBig]
 #. defaultMessage is:
@@ -6187,14 +6215,14 @@ msgstr "fundado"
 #. get IQ
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "get IQ"
-msgstr "Obtener IQ"
+msgstr "obtén IQ"
 
 #. [NewPageTemplate.NPT_Product_Include]
 #. defaultMessage is:
 #. include
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/product.json
 msgid "include"
-msgstr "contener"
+msgstr "incluye"
 
 #. [NewPageTemplate.NPT_Organization_IsA]
 #. defaultMessage is:
@@ -6212,7 +6240,7 @@ msgstr "es un"
 #. is a place
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/place.json
 msgid "is a place"
-msgstr "Poner Votos"
+msgstr "es un lugar"
 
 #. [NewPageTemplate.NPT_Event_IsAnEvent]
 #. defaultMessage is:
@@ -6280,7 +6308,7 @@ msgstr "ofertas"
 #. on these exchanges
 #: translations/.messages/src/app/containers/iq-info/iq-info.container.json
 msgid "on these exchanges"
-msgstr "Intercambios compatibles"
+msgstr "en estos exchanges"
 
 #. [Login.Or]
 #. defaultMessage is:
@@ -6294,14 +6322,14 @@ msgstr "o"
 #. reject
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "reject"
-msgstr "Rechazar"
+msgstr "rechace"
 
 #. [ActivityCard.Removed2]
 #. defaultMessage is:
 #. removed
 #: translations/.messages/src/app/components/ActivityCards/ActivityCard.json
 msgid "removed"
-msgstr "borrado"
+msgstr "eliminado"
 
 #. [NewPageTemplate.NPT_Person_StartedHisHerCareer]
 #. defaultMessage is:
@@ -6322,14 +6350,14 @@ msgstr "hable con alguien sobre cómo empezar!"
 #. these exchanges.
 #: translations/.messages/src/app/utils/errors.json
 msgid "these exchanges."
-msgstr "Intercambios compatibles"
+msgstr "estos exchanges."
 
 #. [SectionEmbedModal.ToChooseAQualityImage]
 #. defaultMessage is:
 #. to choose a quality image. You can upload jpg, gif, and png files.
 #: translations/.messages/src/editor/plugins/section-embed-modal/section-embed-modal.json
 msgid "to choose a quality image. You can upload jpg, gif, and png files."
-msgstr ""
+msgstr "para elegir una imagen de calidad. Puedes subir ficheros jpg, gif o png."
 
 #. [Directory.ToParticipate]
 #. defaultMessage is:
@@ -6374,14 +6402,14 @@ msgstr "para ver nuestras preguntas frecuentes"
 #: translations/.messages/src/app/containers/searchResultsFull/SearchCategoryCard.json
 #: translations/.messages/src/app/containers/searchResultsFull/SearchProfileCard.json
 msgid "views"
-msgstr "Vistas"
+msgstr "vistas"
 
 #. [SubmitVote.VoteTwo]
 #. defaultMessage is:
 #. vote
 #: translations/.messages/src/app/components/SubmitVote/index.json
 msgid "vote"
-msgstr "Votar"
+msgstr "Vota"
 
 #. [Chat.Voted]
 #. defaultMessage is:
@@ -6413,14 +6441,14 @@ msgstr "fue creado por"
 #. was formed by
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/event.json
 msgid "was formed by"
-msgstr "fue formado por"
+msgstr "fue constituido por"
 
 #. [NewPageTemplate.NPT_Organization_WasStartedBy]
 #. defaultMessage is:
 #. was started by
 #: translations/.messages/src/editor/utils/editing-utils/template-packs/organization.json
 msgid "was started by"
-msgstr "fue iniciada por"
+msgstr "fue iniciado por"
 
 #. [ActivityCard.Words]
 #. defaultMessage is:
@@ -6449,17 +6477,16 @@ msgstr "palabras"
 #~ msgid ""
 #~ "You need to make an edit before you can vote with your Ore ID account"
 #~ msgstr ""
-#~ "Necesita hacer una edición antes de poder votar con su cuenta de "
-#~ "identificación de mineral"
+#~ "Necesita hacer una edición antes de poder votar con su cuenta de Ore ID"
 
 #~ msgid "Contact Info"
 #~ msgstr "Información de contacto"
 
 #~ msgid "Send to"
-#~ msgstr "Enviar"
+#~ msgstr "Enviar a"
 
 #~ msgid "Sending"
-#~ msgstr "Enviar"
+#~ msgstr "Enviando"
 
 #~ msgid "Category"
 #~ msgstr "Categoría"
@@ -6489,7 +6516,7 @@ msgstr "palabras"
 #~ "ingrese el pin que creó cuando configuró su cuenta."
 
 #~ msgid "about EOS and IQ"
-#~ msgstr "sobre EOS e IQ, o"
+#~ msgstr "sobre EOS e IQ"
 
 #~ msgid "Edits Proposed"
 #~ msgstr "Ediciones propuestas"
@@ -6534,7 +6561,7 @@ msgstr "palabras"
 #~ msgstr "Añadir otro"
 
 #~ msgid "Add Inline Object"
-#~ msgstr "Añadir imagen en línea"
+#~ msgstr "Añadir Objeto en línea"
 
 #~ msgid "Add and Add Another"
 #~ msgstr "Añadir y Añadir otro"
@@ -6543,25 +6570,25 @@ msgstr "palabras"
 #~ msgstr "Importe adicional de refuerzo"
 
 #~ msgid "Anonymous Tip"
-#~ msgstr "Consejo Anónimo"
+#~ msgstr "Propina Anónima"
 
 #~ msgid "Boost"
 #~ msgstr "Potenciar"
 
 #~ msgid "Boost amount"
-#~ msgstr "Aumentar la cantidad"
+#~ msgstr "Cantidad de aumento"
 
 #~ msgid "Boost your voting power"
 #~ msgstr "Aumente su poder de voto"
 
 #~ msgid "Boosts / Voting Power"
-#~ msgstr "Impulsos / Poder de Voto"
+#~ msgstr "Aumentos / Poder de Voto"
 
 #~ msgid "Confirm Your Boost"
-#~ msgstr "Confirme su aumento de presión"
+#~ msgstr "Confirme su aumento"
 
 #~ msgid "Congratulations, your boost was recorded for this article."
-#~ msgstr "Felicitaciones, su impulso fue grabado para este artículo."
+#~ msgstr "Felicitaciones, su aumento fue grabado para este artículo."
 
 #~ msgid "Contact Type"
 #~ msgstr "Tipo De Contacto"
@@ -6570,7 +6597,7 @@ msgstr "palabras"
 #~ msgstr "No venda mi información personal"
 
 #~ msgid "EXISTING BOOST"
-#~ msgstr "IMPULSO EXISTENTE"
+#~ msgstr "AUMENTO EXISTENTE"
 
 #~ msgid "Final Tally:"
 #~ msgstr "Cuenta final:"
@@ -6588,50 +6615,50 @@ msgstr "palabras"
 #~ msgstr "Cómo funciona"
 
 #~ msgid "How much IQ should I boost?"
-#~ msgstr "¿Cuánto coeficiente intelectual debo aumentar?"
+#~ msgstr "¿Cuánto IQ debo aumentar?"
 
 #~ msgid "Increase your voting power by boosting!"
-#~ msgstr "Aumente su poder de voto aumentando!"
+#~ msgstr "Incremente su poder de voto aumentando!"
 
 #~ msgid "Investment Inquiry"
 #~ msgstr "Consulta de inversión"
 
 #~ msgid "Log in with Facebook"
-#~ msgstr "Inicia tu sesión con Facebook"
+#~ msgstr "Inicie sesión con Facebook"
 
 #~ msgid "Log in with Github"
-#~ msgstr "Iniciar sesión con Github"
+#~ msgstr "Inicie sesión con Github"
 
 #~ msgid "Log in with Google"
-#~ msgstr "Ingresar con Google"
+#~ msgstr "Inicie sesión con Google"
 
 #~ msgid "Log in with Kakao"
-#~ msgstr "Iniciar sesión con Kakao"
+#~ msgstr "Inicie sesión con Kakao"
 
 #~ msgid "Log in with Line"
-#~ msgstr "Iniciar sesión con Line"
+#~ msgstr "Inicie sesión con Line"
 
 #~ msgid "Log in with LinkedIn"
-#~ msgstr "Ingresa con LinkedIn"
+#~ msgstr "Inicie sesión con LinkedIn"
 
 #~ msgid "Log in with Scatter"
 #~ msgstr "Por favor, inicia sesión con Scatter"
 
 #~ msgid "Log in with Twitch"
-#~ msgstr "Iniciar sesión con Twitch"
+#~ msgstr "Inicie sesión con Twitch"
 
 #~ msgid "Log in with Twitter"
-#~ msgstr "Ingresar con Twitter"
+#~ msgstr "Inicie sesión con Twitter"
 
 #~ msgid "NEW BOOST"
 #~ msgstr "NUEVO IMPULSO"
 
 #~| msgid "View Transaction"
 #~ msgid "No transaction ID"
-#~ msgstr "Ver Transacción"
+#~ msgstr "Sin ID de transacción"
 
 #~ msgid "Override text?"
-#~ msgstr "¿Sustituir texto?"
+#~ msgstr "¿Anular texto?"
 
 #~ msgid ""
 #~ "Permanently increase your voting power for this article by burning IQ."
@@ -6655,7 +6682,7 @@ msgstr "palabras"
 #~ msgstr "Redireccionamiento a la página de autenticación de ORE ID"
 
 #~ msgid "Report Abuse"
-#~ msgstr "Denunciar"
+#~ msgstr "Denunciar Abuso"
 
 #~ msgid "Report Bug"
 #~ msgstr "Reportar un error"
@@ -6670,36 +6697,36 @@ msgstr "palabras"
 #~ msgstr "Actualmente no hay impulsos para esta página"
 
 #~ msgid "Transaction failed!"
-#~ msgstr "TRANSACCIÓN FALLIDA!"
+#~ msgstr "¡TRANSACCIÓN FALLIDA!"
 
 #~ msgid "Undo Changes"
 #~ msgstr "Anular Cambios"
 
 #~ msgid "Verify Account"
-#~ msgstr "Verificar Cuenta"
+#~ msgstr "Verifique Cuenta"
 
 #~| msgid "No Preview Available"
 #~ msgid "Video preview unavailable"
-#~ msgstr "Vista previa no disponible"
+#~ msgstr "Vista previa de Video no disponible"
 
 #~ msgid ""
 #~ "You can boost with any amount of IQ. Your future voting power increases "
 #~ "the more you boost!"
 #~ msgstr ""
 #~ "Puedes aumentar con cualquier cantidad de CI. Su futuro poder de voto "
-#~ "aumenta cuanto más aumenta!"
+#~ "se incrementa cuanto más aumenta!"
 
 #~ msgid "Your Boost was Successful"
 #~ msgstr "Su impulso fue un éxito"
 
 #~ msgid "to choose a quality image"
-#~ msgstr "elegir una imagen de calidad"
+#~ msgstr "para elegir una imagen de calidad"
 
 #~ msgid "to choose a quality image."
 #~ msgstr "para elegir una imagen de calidad."
 
 #~ msgid "Add without Inserting"
-#~ msgstr "Añadir sin insertar"
+#~ msgstr "Añade sin insertar"
 
 #~ msgid "ISBN (Book)"
 #~ msgstr "ISBN (Libro)"
